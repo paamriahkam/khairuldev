@@ -1,0 +1,2538 @@
+{
+   "Ads":[
+      {
+         "select_main_ads":"ADMOB",
+         "select_backup_ads":"APPLOVIN-D",
+         "main_ads_banner":"ca-app-pub-3940256099942544/6300978111x",
+         "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712x",
+         "backup_ads_banner":"db4d5e8718b97d78",
+         "backup_ads_intertitial":"518cd97722c60b52",
+         "interval_intertitial":5,
+         "initialize_sdk":"107355779",
+         "initialize_sdk_backup_ads":"",
+         "high_paying_keyword_1":"",
+         "high_paying_keyword_2":"",
+         "high_paying_keyword_3":"",
+         "high_paying_keyword_4":"",
+         "high_paying_keyword_5":"",
+         "status_app":"0",
+         "link_redirect":"https://"
+      }
+   ],
+   "Categories":[
+      {
+         "name_category":"Messages d’amour"
+      },
+      {
+         "name_category":"d’amour pour elle"
+      },
+      {
+         "name_category":"d’amour pour lui"
+      },
+      {
+         "name_category":"d’amour romantiques"
+      },
+      {
+         "name_category":"d’amour profond"
+      },
+      {
+         "name_category":"Je Taime"
+      },
+      {
+         "name_category":"Doux messages d’amour"
+      },
+      {
+         "name_category":"d’amour pour petite amie"
+      },
+      {
+         "name_category":"d’amour pour petit ami"
+      },
+      {
+         "name_category":"d’amour pour la femme"
+      },
+      {
+         "name_category":"d’amour pour le mari"
+      },
+      {
+         "name_category":"d'amour touchant au coeur"
+      },
+      {
+         "name_category":"Citations d’amour"
+      },
+      {
+         "name_category":"Longs messages d’amour"
+      },
+      {
+         "name_category":"d’amour courts"
+      },
+      {
+         "name_category":"Texte d’amour"
+      }
+   ],
+   "Quotes":[
+      {
+         "id":1,
+         "name_category":"Messages d’amour",
+         "author":"Messages d’amour",
+         "quotes":"Je te veux dans ma vie pour aujourd’hui, demain et pour toujours.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":2,
+         "name_category":"Messages d’amour",
+         "author":"Messages d’amour",
+         "quotes":"Ton amour est une drogue, et je ne veux jamais m’en remettre.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":3,
+         "name_category":"Messages d’amour",
+         "author":"Messages d’amour",
+         "quotes":"Il n’y a que deux fois où je veux être avec vous: maintenant et pour toujours!",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":4,
+         "name_category":"Messages d’amour",
+         "author":"Messages d’amour",
+         "quotes":"Je veux être avec toi toujours et pour toujours. Rien dans ce monde ne peut te remplacer dans mon cœur.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":5,
+         "name_category":"Messages d’amour",
+         "author":"Messages d’amour",
+         "quotes":"T’aimer est la seule chose qui fait que ma vie vaut la peine d’être vécue.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":6,
+         "name_category":"Messages d’amour",
+         "author":"Messages d’amour",
+         "quotes":"Le monde pourrait me traiter de fou, mais je suis heureux d’être fou de toi ! Ma chérie, je t’aime!",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":7,
+         "name_category":"Messages d’amour",
+         "author":"Messages d’amour",
+         "quotes":"T’aimer est devenu un must pour moi. Ce n’est plus un choix ou une option.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":8,
+         "name_category":"Messages d’amour",
+         "author":"Messages d’amour",
+         "quotes":"S’il y a une chose dans ce monde que j’ai peur de perdre, c’est vous. Je suis tellement amoureux de toi que je ne peux pas me permettre de te perdre!",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":9,
+         "name_category":"Messages d’amour",
+         "author":"Messages d’amour",
+         "quotes":"Tu as transformé ma vie en un voyage d’amour et de bonheur. Chaque seconde que je passe avec toi; Je tombe encore plus amoureux de toi !",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":10,
+         "name_category":"Messages d’amour",
+         "author":"Messages d’amour",
+         "quotes":"Si vous me demandez quand je veux être avec vous, ma réponse sera – maintenant et pour toujours.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":11,
+         "name_category":"Messages d’amour",
+         "author":"Messages d’amour",
+         "quotes":"Peu importe ce qui s’est passé. Peu importe ce que vous avez fait. Peu importe ce que vous ferez. Je t’aime pour toujours.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":12,
+         "name_category":"Messages d’amour",
+         "author":"Messages d’amour",
+         "quotes":"Tu ne sais pas à quel point je suis béni de t’avoir dans la vie. Tu as donné un nouveau sens à ma vie. Je t’aime.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":13,
+         "name_category":"Messages d’amour",
+         "author":"Messages d’amour",
+         "quotes":"Je souhaite être tout ce qui apporte un sourire sur votre visage et du bonheur à votre cœur. Je veux t’aimer comme personne d’autre ne l’a jamais fait!",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":14,
+         "name_category":"Messages d’amour",
+         "author":"Messages d’amour",
+         "quotes":"Tu es la raison de mon sourire et de mon bonheur. Je t’aime sans fin!",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":15,
+         "name_category":"Messages d’amour",
+         "author":"Messages d’amour",
+         "quotes":"J’ai écrit ton nom dans le ciel, mais le vent l’a emporté. J’ai écrit ton nom dans le sable, mais les vagues l’ont emporté. J’ai écrit ton nom dans mon cœur, et il restera pour toujours.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":16,
+         "name_category":"Messages d’amour",
+         "author":"Messages d’amour",
+         "quotes":"Je suis tellement perdu dans l’amour que je ne connais pas les mots justes pour exprimer ce que je ressens pour toi. Aucun mot ne peut décrire mon amour pour vous!",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":17,
+         "name_category":"Messages d’amour",
+         "author":"Messages d’amour",
+         "quotes":"T’aimer est la meilleure chose que j’ai faite de toute ma vie. Merci d’avoir rendu ma vie incroyable.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":18,
+         "name_category":"Messages d’amour",
+         "author":"Messages d’amour",
+         "quotes":"Chaque jour, je remercie Dieu d’avoir envoyé un ange comme toi dans ma vie. Je t’aime tellement.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":19,
+         "name_category":"Messages d’amour",
+         "author":"Messages d’amour",
+         "quotes":"Quoi qu’il arrive, je sais qu’il y a une personne qui sera là pour moi. C’est toi, mon amour.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":20,
+         "name_category":"Messages d’amour",
+         "author":"Messages d’amour",
+         "quotes":"Tu es l’étoile la plus brillante qui illumine ma vie tous les jours.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":21,
+         "name_category":"Messages d’amour",
+         "author":"Messages d’amour",
+         "quotes":"Bonjour mon amour! Vous envoyer beaucoup d’amour et de baisers.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":22,
+         "name_category":"Messages d’amour",
+         "author":"Messages d’amour",
+         "quotes":"Je suis tombé amoureux tant de fois dans la vie. Mais à chaque fois, c’était avec vous !",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":23,
+         "name_category":"Messages d’amour",
+         "author":"Messages d’amour",
+         "quotes":"Pour vous, je ne suis peut-être qu’une seule personne, mais pour moi, vous êtes le monde.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":24,
+         "name_category":"Messages d’amour",
+         "author":"Messages d’amour",
+         "quotes":"Je t’aime, c’est le moins que je puisse dire. J’aimerais pouvoir faire plus pour montrer ce que je ressens vraiment pour vous.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":25,
+         "name_category":"Messages d’amour",
+         "author":"Messages d’amour",
+         "quotes":"Ils disent que l’amour ne peut pas être vu; elle ne peut qu’être ressentie. Mais ils avaient tort. Je l’ai vu plusieurs fois. J’ai vu le véritable amour pour moi dans tes yeux. Et c’est la plus belle chose que j’ai jamais vue!",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":26,
+         "name_category":"Messages d’amour",
+         "author":"Messages d’amour",
+         "quotes":"Je t’ai aimé, je t’aime et je t’aimerai pour toujours.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":27,
+         "name_category":"Messages d’amour",
+         "author":"Messages d’amour",
+         "quotes":"Ton amour est tout ce qui me maintient en vie et me fait me sentir complète. Je t’aime!",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":28,
+         "name_category":"Messages d’amour",
+         "author":"Messages d’amour",
+         "quotes":"Les mots ne suffisent pas pour vous remercier d’être avec moi. Tu es l’âme la plus gentille qui rend ma vie belle et aimée.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":29,
+         "name_category":"Messages d’amour",
+         "author":"Messages d’amour",
+         "quotes":"Mes plus grands fantasmes sont ceux qui commencent avec vous et se terminent avec vous. Je t’aime vraiment follement et profondément!",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":30,
+         "name_category":"Messages d’amour",
+         "author":"Messages d’amour",
+         "quotes":"Merci d’être ma femme; Merci de m’avoir donné de nombreuses raisons de vivre ma vie au maximum. Tu es mon parfait.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":31,
+         "name_category":"Messages d’amour",
+         "author":"Messages d’amour",
+         "quotes":"Se réveiller à côté de vous tous les jours n’est rien d’autre qu’une pure bénédiction. Tu as tout mon cœur, le soleil. Merci d’être mon mari.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":32,
+         "name_category":"Messages d’amour",
+         "author":"Messages d’amour",
+         "quotes":"Tu me manques plus que je ne peux l’exprimer, en pensant à toi plus que tu ne le sais. Je t’aime!",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":33,
+         "name_category":"Messages d’amour",
+         "author":"Messages d’amour",
+         "quotes":"Rien de plus comparé au bonheur que j’ai ressenti en ce moment d’avoir quelqu’un comme toi dans ma vie. Je t’aime tellement, chérie!",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":34,
+         "name_category":"Messages d’amour",
+         "author":"Messages d’amour",
+         "quotes":"Aucune distance ne peut affaiblir notre lien. Rien ne peut effacer nos souvenirs de notre esprit. Nos cœurs seront toujours liés les uns aux autres.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":35,
+         "name_category":"Messages d’amour",
+         "author":"Messages d’amour",
+         "quotes":"Puisqu’aucun humain ne peut vivre sans air, je ne peux pas vivre sans toi. Je t’aimerai jusqu’au lendemain pour toujours.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":36,
+         "name_category":"Messages d’amour",
+         "author":"Messages d’amour",
+         "quotes":"Si vous me demandez de faire un dernier vœu, ce serait de continuer comme ça, en tenant vos mains dans les miennes, jusqu’à mon dernier souffle.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":37,
+         "name_category":"Messages d’amour",
+         "author":"Messages d’amour",
+         "quotes":"Si je suis payé pour t’aimer, je serais millionnaire maintenant!",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":38,
+         "name_category":"Messages d’amour",
+         "author":"Messages d’amour",
+         "quotes":"Tu es la seule raison pour laquelle je survis ; Je t’aime!",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":39,
+         "name_category":"Messages d’amour",
+         "author":"Messages d’amour",
+         "quotes":"Chérie, j’aimerais pouvoir te rendre aussi heureuse que tu me rends. Je t’aime.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":40,
+         "name_category":"Messages d’amour",
+         "author":"Messages d’amour",
+         "quotes":"Je rêve d’un monde où vous et moi vivrions pendant mille ans pour nous aimer. Je sais que je ne me lasserai jamais de t’aimer.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":41,
+         "name_category":"Messages d’amour",
+         "author":"Messages d’amour",
+         "quotes":"Ton amour est vraiment un cadeau merveilleux pour moi. Je ne peux jamais penser à quelqu’un d’autre qui pourrait m’aimer si profondément!",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":42,
+         "name_category":"Messages d’amour",
+         "author":"Messages d’amour",
+         "quotes":"La vie sans vous est impossible. La vie après vous est inimaginable. Même après la mort, je veux que nos âmes soient réunies !",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":43,
+         "name_category":"Messages d’amour",
+         "author":"Messages d’amour",
+         "quotes":"Mon amour pour vous est plus profond que l’océan et plus large que le ciel. Personne ne peut le mesurer, mais tu sais à quel point je t’aime.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":44,
+         "name_category":"Messages d’amour",
+         "author":"Messages d’amour",
+         "quotes":"Merci d’être venu dans ma vie. Je t’aime, chérie.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":45,
+         "name_category":"Messages d’amour",
+         "author":"Messages d’amour",
+         "quotes":"Vous êtes tellement belle, à l’intérieur comme à l’extérieur. Je dois avoir tellement de chance de pouvoir te trouver dans ce grand monde et te faire mien.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":46,
+         "name_category":"Messages d’amour",
+         "author":"Messages d’amour",
+         "quotes":"Quand nous sommes ensemble, une heure ressemble à une minute. Mais quand nous sommes séparés, une minute vous semblera une heure!",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":47,
+         "name_category":"Messages d’amour",
+         "author":"Messages d’amour",
+         "quotes":"J’ai la chance d’avoir une personne comme toi dans ma vie qui me donne mille raisons de sourire tous les jours. Tu es si précieuse, ma belle.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":48,
+         "name_category":"Messages d’amour",
+         "author":"Messages d’amour",
+         "quotes":"Ton cœur est tellement plein d’amour, et j’ai la chance d’y trouver une place. Je t’aime, chérie.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":49,
+         "name_category":"Messages d’amour",
+         "author":"Messages d’amour",
+         "quotes":"Si vous étiez un livre, je vous lirais encore et encore. C’est à quel point je t’aime ma beauté.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":50,
+         "name_category":"Messages d’amour",
+         "author":"Messages d’amour",
+         "quotes":"Tu es l’âme la plus gentille qui rend ma vie belle et aimée.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":51,
+         "name_category":"Messages d’amour",
+         "author":"Messages d’amour",
+         "quotes":"Il faut beaucoup de chance pour avoir quelqu’un comme vous comme petit ami. Je me sens béni chaque jour et chaque instant pour ce cadeau.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":52,
+         "name_category":"Messages d’amour",
+         "author":"Messages d’amour",
+         "quotes":"Je t’aimerai jusqu’à mon dernier souffle, peu importe ce que la vie nous réserve !",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":53,
+         "name_category":"Messages d’amour",
+         "author":"Messages d’amour",
+         "quotes":"Une femme aussi incroyable que vous ne vient pas de cette terre; ils viennent tout droit du ciel. Vous êtes la femme la plus parfaite de tous les temps!",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":54,
+         "name_category":"Messages d’amour",
+         "author":"Messages d’amour",
+         "quotes":"Mon amour pour toi devient toujours plus fort, et je me perds lentement plus profondément dedans.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":55,
+         "name_category":"Messages d’amour",
+         "author":"Messages d’amour",
+         "quotes":"Ton amour est la source de mon bonheur. S’il vous plaît, ne me laissez jamais tranquille. Je ne peux pas imaginer un seul jour sans vous.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":56,
+         "name_category":"Messages d’amour",
+         "author":"Messages d’amour",
+         "quotes":"",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":1,
+         "name_category":"d’amour pour elle",
+         "author":"d’amour pour elle",
+         "quotes":"Je t’aime, bébé. Tu me fais me sentir spécial!",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":2,
+         "name_category":"d’amour pour elle",
+         "author":"d’amour pour elle",
+         "quotes":"Je suis vraiment béni de t’avoir dans ma vie. Je t’aime tellement.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":3,
+         "name_category":"d’amour pour elle",
+         "author":"d’amour pour elle",
+         "quotes":"La plus belle chose qui me soit jamais arrivée, c’est TOI. Je t’aime tellement, bébé",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":4,
+         "name_category":"d’amour pour elle",
+         "author":"d’amour pour elle",
+         "quotes":"Tu es la fille la plus incroyable avec qui je puisse passer le reste de ma vie. Merci d’être à moi.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":5,
+         "name_category":"d’amour pour elle",
+         "author":"d’amour pour elle",
+         "quotes":"Tu me guides vers ma vraie paix, l’amour. Sans vous, je suis un voyageur perdu avec une boussole cassée!",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":6,
+         "name_category":"d’amour pour elle",
+         "author":"d’amour pour elle",
+         "quotes":"Tu me fais me sentir vivant à chaque instant. Tu es la raison derrière chaque joie et chaque sourire de ma vie. Je t’aime si profondément!",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":7,
+         "name_category":"d’amour pour elle",
+         "author":"d’amour pour elle",
+         "quotes":"Mon amour pour toi est plus profond que l’océan. Vous pouvez le voir si vous me regardez droit dans les yeux. Vous saurez à quel point je suis follement amoureux de vous!",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":8,
+         "name_category":"d’amour pour elle",
+         "author":"d’amour pour elle",
+         "quotes":"Peu importe à quel point je suis occupé, mon cœur n’oublie jamais de me rappeler de toi. Je t’aime chéri.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":9,
+         "name_category":"d’amour pour elle",
+         "author":"d’amour pour elle",
+         "quotes":"Plus les jours passent, plus je tombe amoureux de toi. Tu es la Reine de mon cœur.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":10,
+         "name_category":"d’amour pour elle",
+         "author":"d’amour pour elle",
+         "quotes":"Tu m’as donné une raison de vivre, de rêver et de me battre. Vous faites en sorte que mes journées valent la peine d’être vécues. Merci d’être la seule personne qui me comprend!",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":11,
+         "name_category":"d’amour pour elle",
+         "author":"d’amour pour elle",
+         "quotes":"Je ne veux pas du monde, je ne veux pas du ciel, je ne veux pas de la lune, je veux juste que vous soyez dans ma part. Je t’aime beaucoup mon amour",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":12,
+         "name_category":"d’amour pour elle",
+         "author":"d’amour pour elle",
+         "quotes":"Je ne peux pas arrêter de t’aimer parce que c’est la seule chose pour laquelle je suis bon et la seule raison pour laquelle j’ai été envoyé ici sur terre. Je t’aime!",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":13,
+         "name_category":"d’amour pour elle",
+         "author":"d’amour pour elle",
+         "quotes":"Tes rires enfantins font fondre mon cœur chaque fois que je les entends. Continuez à rire comme ça toujours. Je t’aime.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":14,
+         "name_category":"d’amour pour elle",
+         "author":"d’amour pour elle",
+         "quotes":"Ta présence dans ma vie est une bénédiction d’une vie. Tu es le cadeau que je n’ai jamais osé demander. L’amour que tu m’as donné est plus que je ne pourrais jamais l’imaginer.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":15,
+         "name_category":"d’amour pour elle",
+         "author":"d’amour pour elle",
+         "quotes":"Parfois, j’ai l’impression de faire un rêve, mais ensuite je réalise que tout est réel et que je suis un homme chanceux dans ce beau monde. Merci d’être à moi!",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":16,
+         "name_category":"d’amour pour elle",
+         "author":"d’amour pour elle",
+         "quotes":"Je remercie Dieu tous les jours parce qu’il a répondu à ma prière et m’a donné la plus belle femme du monde. Je ne peux pas m’empêcher de tomber amoureuse de toi tous les jours!",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":17,
+         "name_category":"d’amour pour elle",
+         "author":"d’amour pour elle",
+         "quotes":"Tu es la plus belle femme que j’ai jamais connue. Tu as fait pousser une fleur dans mon cœur, que j’appelle amour. Je t’aime plus que toute autre chose dans la vie!",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":18,
+         "name_category":"d’amour pour elle",
+         "author":"d’amour pour elle",
+         "quotes":"Chaque fois que je ferme les yeux, je rêve que nous soyons heureux et joyeux ensemble dans notre maison de rêve. Reste avec moi pour toujours, Amour.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":19,
+         "name_category":"d’amour pour elle",
+         "author":"d’amour pour elle",
+         "quotes":"Ton sourire est la récompense que je veux obtenir tous les jours. C’est la seule chose qui me permet de respirer magnifiquement.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":20,
+         "name_category":"d’amour pour elle",
+         "author":"d’amour pour elle",
+         "quotes":"En vous tenant fermement les mains, j’ai la force de vaincre tous mes problèmes de vie. Restez toujours avec moi.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":21,
+         "name_category":"d’amour pour elle",
+         "author":"d’amour pour elle",
+         "quotes":"Je vous promets que je vous protégerai de toute la négativité de ce monde. Tu promets seulement de rester avec moi toujours. Je t’aime.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":22,
+         "name_category":"d’amour pour elle",
+         "author":"d’amour pour elle",
+         "quotes":"Peu importe où vous êtes; Je peux toujours entendre ton rythme cardiaque quand je m’allonge et voir ton visage quand je ferme les yeux. Je t’aime, chérie!",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":23,
+         "name_category":"d’amour pour elle",
+         "author":"d’amour pour elle",
+         "quotes":"Les gens avec la vérité dans leur cœur et la passion dans leurs yeux sont difficiles à trouver. J’ai eu de la chance de t’avoir trouvé. Je t’aime tellement, ma chérie!",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":24,
+         "name_category":"d’amour pour elle",
+         "author":"d’amour pour elle",
+         "quotes":"Vous avez tout en vous pour être aimé, adoré et choyé. Je donnerai toujours le meilleur de moi-même pour que vous vous sentiez spécial. Je t’aime!",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":25,
+         "name_category":"d’amour pour elle",
+         "author":"d’amour pour elle",
+         "quotes":"Tu es le match parfait pour moi et je le sais depuis la première fois que j’ai vu ton beau visage. Je t’aime avec mon tout jolie fille.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":26,
+         "name_category":"d’amour pour elle",
+         "author":"d’amour pour elle",
+         "quotes":"Je ne suis rien d’autre qu’une silhouette, mais à travers vos yeux, je suis née comme l’étoile la plus brillante!",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":27,
+         "name_category":"d’amour pour elle",
+         "author":"d’amour pour elle",
+         "quotes":"Chaque fois que je te regarde, mon cœur est pris dans un accroc. Tu es une femme magnifique à mes yeux!",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":28,
+         "name_category":"d’amour pour elle",
+         "author":"d’amour pour elle",
+         "quotes":"J’aimerais pouvoir vous montrer à quel point vous comptez pour moi. Tu es celui dont je peux tomber amoureux encore et encore.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":29,
+         "name_category":"d’amour pour elle",
+         "author":"d’amour pour elle",
+         "quotes":"La beauté dans tes yeux et l’innocence dans ton visage me rend fou tout le temps. Je te veux dans ma vie pour aujourd’hui, demain et pour toujours.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":30,
+         "name_category":"d’amour pour elle",
+         "author":"d’amour pour elle",
+         "quotes":"Je me sens chanceux de t’avoir dans ma vie alors que tu l’illumines de ta lueur. J’apprécie votre présence plus que toute autre chose; Je t’aime.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":1,
+         "name_category":"d’amour pour lui",
+         "author":"d’amour pour lui",
+         "quotes":"Je me sens chanceux de t’avoir. Je t’aime, chérie.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":2,
+         "name_category":"d’amour pour lui",
+         "author":"d’amour pour lui",
+         "quotes":"Mon doux prince, je t’ai aimé une fois, je t’aime encore, je l’ai toujours fait et je l’aimerai toujours.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":3,
+         "name_category":"d’amour pour lui",
+         "author":"d’amour pour lui",
+         "quotes":"Ton amour m’a transpercé le cœur comme une épée, et c’est à toi de me guérir maintenant. Ne me quittez jamais parce que je ne suis rien sans toi !",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":4,
+         "name_category":"d’amour pour lui",
+         "author":"d’amour pour lui",
+         "quotes":"Je rampais dans l’obscurité avant que tu n’aiesies fait mon cas. Tu as emmené mon âme loin de sa cachette. Je t’aime, chérie!",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":5,
+         "name_category":"d’amour pour lui",
+         "author":"d’amour pour lui",
+         "quotes":"Je me vois passer le dernier jour de ma vie avec toi, bébé. Heureusement pour toujours! Je t’aime.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":6,
+         "name_category":"d’amour pour lui",
+         "author":"d’amour pour lui",
+         "quotes":"Depuis que je t’ai rencontré, j’ai réalisé à quoi ressemble le véritable amour. Tu m’as fait me sentir spéciale et aimée.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":7,
+         "name_category":"d’amour pour lui",
+         "author":"d’amour pour lui",
+         "quotes":"Les petites choses que tu fais pour moi apportent tant de joie à ma vie. Je t’aimerai toujours.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":8,
+         "name_category":"d’amour pour lui",
+         "author":"d’amour pour lui",
+         "quotes":"Je me sens le plus heureux et le plus en sécurité quand je suis dans tes bras. Je t’aime tellement, chérie.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":9,
+         "name_category":"d’amour pour lui",
+         "author":"d’amour pour lui",
+         "quotes":"Tu m’as toujours fait sentir à quel point je suis important pour toi. Vous avez donné tant d’amour et de soins. Je ne vous remercierai jamais assez.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":10,
+         "name_category":"d’amour pour lui",
+         "author":"d’amour pour lui",
+         "quotes":"Vous connaissez toutes les astuces pour faire fondre mon cœur comme la neige d’avril. J’ai tellement de chance que tu sois dans ma vie. L’amour que j’ai pour toi ne s’estompera jamais!",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":11,
+         "name_category":"d’amour pour lui",
+         "author":"d’amour pour lui",
+         "quotes":"Cher homme de ma vie. J’aime la façon dont vous accomplissez ma vie avec votre présence, vos soins et votre amour. Puissions-nous toujours rester comme cela et être bénis.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":12,
+         "name_category":"d’amour pour lui",
+         "author":"d’amour pour lui",
+         "quotes":"Tu portes mon cœur avec toi. Tant que tu es avec moi, je n’ai rien à craindre parce que je sais que mon cœur est en sécurité avec toi.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":13,
+         "name_category":"d’amour pour lui",
+         "author":"d’amour pour lui",
+         "quotes":"Je ne veux pas vivre sans toi ne serait-ce qu’un seul jour. Tu es la meilleure chose qui me soit jamais arrivée et je te chérirai dans mon cœur pour toujours!",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":14,
+         "name_category":"d’amour pour lui",
+         "author":"d’amour pour lui",
+         "quotes":"Vous me donnez une raison de me réveiller tous les jours, un rêve pour lequel me battre, une vie qui vaut la peine d’être vécue. Je t’aime, mon homme.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":15,
+         "name_category":"d’amour pour lui",
+         "author":"d’amour pour lui",
+         "quotes":"Rien n’est plus important que votre rire bizarre et vos blagues idiotes. Oui, j’aime tout chez toi mon homme.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":16,
+         "name_category":"d’amour pour lui",
+         "author":"d’amour pour lui",
+         "quotes":"Vous avez la vérité dans votre cœur et la passion dans vos yeux; des choses sur toi qui me font t’aimer encore plus.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":17,
+         "name_category":"d’amour pour lui",
+         "author":"d’amour pour lui",
+         "quotes":"Mon cœur a scellé ta place en elle dès que je t’ai rencontré. Cet endroit restera toujours constant et intact. Je t’aime tellement!",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":18,
+         "name_category":"d’amour pour lui",
+         "author":"d’amour pour lui",
+         "quotes":"Je prie toujours le Seigneur de ne jamais se séparer de toi, peu importe le nombre d’arguments que nous avons. Je veux que notre unité dure pour toujours.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":19,
+         "name_category":"d’amour pour lui",
+         "author":"d’amour pour lui",
+         "quotes":"Le sourire espiègle que vous donnez chaque fois que je m’énerve contre vous ne me laisse pas rester en colère longtemps. Je t’aime plus que tout.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":20,
+         "name_category":"d’amour pour lui",
+         "author":"d’amour pour lui",
+         "quotes":"Le mot « chanceux » n’a eu de sens pour moi qu’après votre entrée dans ma vie. Soyez toujours beau avec moi.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":21,
+         "name_category":"d’amour pour lui",
+         "author":"d’amour pour lui",
+         "quotes":"Votre toucher réconfortant remplit tout mon être de joie et de chaleur bouillonnantes! Le bonheur fleurit de toi, Amour. Je t’aime!",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":22,
+         "name_category":"d’amour pour lui",
+         "author":"d’amour pour lui",
+         "quotes":"Vous êtes la moitié de mon âme, et vous servez de but à mon existence. Je t’aime chéri!",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":23,
+         "name_category":"d’amour pour lui",
+         "author":"d’amour pour lui",
+         "quotes":"Je vais bouleverser le monde juste pour être dans tes bras aimants tous les jours. Tu es tout pour moi !",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":24,
+         "name_category":"d’amour pour lui",
+         "author":"d’amour pour lui",
+         "quotes":"Je peux entendre ta voix dans ma tête même si tu n’es pas là. Quand je pense à toi, des milliers de papillons volent autour de moi.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":1,
+         "name_category":"d’amour romantiques",
+         "author":"d’amour romantiques",
+         "quotes":"Mon amour pour toi est sans fin, et peu importe à quel point la vie devient difficile, je serai toujours là pour toi comme tu l’as été pour moi. Je t’aime, chérie.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":2,
+         "name_category":"d’amour romantiques",
+         "author":"d’amour romantiques",
+         "quotes":"J’ai une chambre spéciale dans mon cœur. Rien ne peut occuper cela sauf vous. En vous envoyant une boîte pleine d’amour, ma chérie!",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":3,
+         "name_category":"d’amour romantiques",
+         "author":"d’amour romantiques",
+         "quotes":"Vous pouvez finir de compter les étoiles dans le ciel, mais vous ne pouvez jamais finir de compter l’amour que j’ai pour vous. Parce que mon cœur est rempli d’un amour infini pour toi !",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":4,
+         "name_category":"d’amour romantiques",
+         "author":"d’amour romantiques",
+         "quotes":"Chaque fois que tu me regardes dans les yeux, tu fais fondre mon cœur et tu me fais retomber amoureuse. J’aime être aimé par toi.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":5,
+         "name_category":"d’amour romantiques",
+         "author":"d’amour romantiques",
+         "quotes":"J’ai besoin de toute une vie pour apprécier Dieu pour t’avoir amené dans ma vie. Tout ce que je veux maintenant, c’est consacrer cette vie à vous aimer !",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":6,
+         "name_category":"d’amour romantiques",
+         "author":"d’amour romantiques",
+         "quotes":"Je ne me soucie de rien et de quelqu’un d’autre, tant que tu m’aimes. Je peux ignorer le reste du monde si vous êtes avec moi. Je t’aime tellement.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":7,
+         "name_category":"d’amour romantiques",
+         "author":"d’amour romantiques",
+         "quotes":"Tu es la reine de mon cœur. Mon cœur trouve du plaisir à suivre vos ordres à tout moment et à chaque fois. Tu es celui que j’aime !",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":8,
+         "name_category":"d’amour romantiques",
+         "author":"d’amour romantiques",
+         "quotes":"Peu importe combien de fois je te vois, ta beauté fait que mes genoux s’affaiblissent et que mon estomac grogne de nervosité! Je t’aime!",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":9,
+         "name_category":"d’amour romantiques",
+         "author":"d’amour romantiques",
+         "quotes":"Chérie, ma journée se passe bien si je n’ai qu’un petit pic de ton visage ou si j’entends cette douce voix de la tes! Tu es vraiment mon porte-bonheur!",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":10,
+         "name_category":"d’amour romantiques",
+         "author":"d’amour romantiques",
+         "quotes":"Je vis tous les jours dans l’espoir de me réveiller un jour avec toi à côté de moi. Rien ne peut me rendre plus heureux qu’une journée qui commence avec toi et se termine avec toi !",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":11,
+         "name_category":"d’amour romantiques",
+         "author":"d’amour romantiques",
+         "quotes":"Je ne sais pas si vous ressentez la même chose, mais je ressens l’amour dans l’air. En fait, je le ressens partout où je vais et dans tout ce que je fais. Je suis sûrement amoureux de toi!",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":12,
+         "name_category":"d’amour romantiques",
+         "author":"d’amour romantiques",
+         "quotes":"Passer du temps avec toi guérit ma santé mentale. Tu peux me guérir comme rien d’autre, heureux que je t’aie dans ma vie. Merci, bébé. Je t’aime tellement.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":13,
+         "name_category":"d’amour romantiques",
+         "author":"d’amour romantiques",
+         "quotes":"Mille raisons ne suffisent pas à me faire sentir aimée et spéciale. Seuls votre toucher et votre sourire peuvent le faire en un clin d’œil. Je t’aime pour toujours.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":14,
+         "name_category":"d’amour romantiques",
+         "author":"d’amour romantiques",
+         "quotes":"Rien dans ce monde ne peut remplacer votre place dans mon cœur parce que vous la possédez.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":15,
+         "name_category":"d’amour romantiques",
+         "author":"d’amour romantiques",
+         "quotes":"Mon amour pour toi ne s’effacera jamais car j’ai construit une maison pour toi dans mon cœur avec beaucoup de soin et des souvenirs adorables.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":16,
+         "name_category":"d’amour romantiques",
+         "author":"d’amour romantiques",
+         "quotes":"Mon cœur était rempli de chagrin et de sentiments durs, mais tu es venu et tu l’as rempli d’amour et de bonheur. Je ne pourrai jamais être assez reconnaissant envers toi de m’aimer comme ça.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":17,
+         "name_category":"d’amour romantiques",
+         "author":"d’amour romantiques",
+         "quotes":"J’adore la façon dont vous mettez un sourire sur mon visage à chaque fois! Je t’aime aujourd’hui et je t’aimerai jusqu’à ce que le royaume vienne. Merci pour tout, mon amour.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":18,
+         "name_category":"d’amour romantiques",
+         "author":"d’amour romantiques",
+         "quotes":"Chaque jour de notre vie ressemble au tout premier jour parce que je ne peux m’empêcher de tomber amoureux de toi encore et encore. Je t’aime!",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":19,
+         "name_category":"d’amour romantiques",
+         "author":"d’amour romantiques",
+         "quotes":"Ma chérie, tu me fais me sentir en sécurité autour de toi et fais ressortir toute la bonté en moi. Je pense que nous sommes vraiment faits l’un pour l’autre!",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":20,
+         "name_category":"d’amour romantiques",
+         "author":"d’amour romantiques",
+         "quotes":"Chaque fois que je pense à toi, la moitié de mes soucis disparaissent. Vous rendez tout ce qui vous entoure si positif et énergique. Je t’aime tellement.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":21,
+         "name_category":"d’amour romantiques",
+         "author":"d’amour romantiques",
+         "quotes":"Il n’y a pas de mots que je pourrais utiliser pour décrire l’amour que nous partageons. Je suis incroyablement reconnaissant pour vous.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":1,
+         "name_category":"d’amour profond",
+         "author":"d’amour profond",
+         "quotes":"Tu es le centre de mon fantasme parce que je t’aime bien plus que le soleil que d’illuminer ma journée et la lune qui maintient la nuit éveillée.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":2,
+         "name_category":"d’amour profond",
+         "author":"d’amour profond",
+         "quotes":"Je sais que nous serons toujours ensemble parce que vous connaissez toutes les astuces pour faire fondre mon cœur comme la neige d’avril. Tu es mon magicien préféré dans le monde entier.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":3,
+         "name_category":"d’amour profond",
+         "author":"d’amour profond",
+         "quotes":"Que Dieu ne nous sépare jamais malgré tous les arguments stupides que nous avons. Je ne peux jamais tolérer la distance entre vous et moi.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":4,
+         "name_category":"d’amour profond",
+         "author":"d’amour profond",
+         "quotes":"Tu es entré dans ma vie, et tout à coup tout est devenu beau. Tu es le seul soleil de ma vie.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":5,
+         "name_category":"d’amour profond",
+         "author":"d’amour profond",
+         "quotes":"L’amour a le pouvoir de transformer les cœurs les plus durs ; il a le pouvoir de guérir et le pouvoir de réconforter et de racheter. Je le sais parce que j’ai vu ce que ton amour me fait.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":6,
+         "name_category":"d’amour profond",
+         "author":"d’amour profond",
+         "quotes":"J’ai vu la forme d’amour la plus vraie et la plus pure en toi. Je n’ai besoin de rien d’autre dans la vie tant que j’ai ton amour. Merci de m’aimer si sincèrement et sincèrement!",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":7,
+         "name_category":"d’amour profond",
+         "author":"d’amour profond",
+         "quotes":"S’il y a quelque chose dans la vie que je ne voudrais pas changer, c’est la chance de vous rencontrer et de tomber amoureux de vous.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":8,
+         "name_category":"d’amour profond",
+         "author":"d’amour profond",
+         "quotes":"Je ne crains plus les chagrins parce que je sais que ton amour guérira instantanément mon cœur. J’ai de la chance de vous avoir.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":9,
+         "name_category":"d’amour profond",
+         "author":"d’amour profond",
+         "quotes":"Quand je rampais dans le noir, cachant tous mes sentiments et mes insécurités, tu es venu comme un chevalier en armure brillante et tu m’as sauvé. Je t’aime pour tout.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":10,
+         "name_category":"d’amour profond",
+         "author":"d’amour profond",
+         "quotes":"Je ne peux pas être plus béni de t’avoir dans ma vie. Moi seul sais comment tu m’as sauvé des ténèbres. Je te chérirai dans mon cœur pour toujours et toujours.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":11,
+         "name_category":"d’amour profond",
+         "author":"d’amour profond",
+         "quotes":"Je serai toujours reconnaissant à Dieu de m’avoir offert à vous. Tu n’es pas seulement mon mari / amant; Tu es mon meilleur ami. Je sais que je peux toujours compter sur vous. Je t’aime tellement.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":12,
+         "name_category":"d’amour profond",
+         "author":"d’amour profond",
+         "quotes":"Je n’ai jamais cru au coup de foudre. L’amour prend sûrement du temps à se développer. Et je suis heureux d’avoir choisi de laisser mon amour pour toi grandir chaque jour. Cela vaut la peine d’attendre. Je t’aime.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":13,
+         "name_category":"d’amour profond",
+         "author":"d’amour profond",
+         "quotes":"Merci d’être l’ami et le compagnon le plus merveilleux et de rendre ma journée belle, tous les jours!",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":1,
+         "name_category":"Je Taime",
+         "author":"Je Taime",
+         "quotes":"Je t’aime plus que les étoiles dans la nuit; même chaque jour où nous nous battons, mon amour ne changera jamais, même légèrement. Je t’aime tout simplement; Je le fais tout simplement.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":2,
+         "name_category":"Je Taime",
+         "author":"Je Taime",
+         "quotes":"Chaque fois que je fais un vœu, je souhaite que nous soyons ensemble pour toujours. Je sais que cela se réalisera parce que vous vivez déjà dans mon cœur. Je t’aime.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":3,
+         "name_category":"Je Taime",
+         "author":"Je Taime",
+         "quotes":"Vous me donnez toujours un million de petites raisons de sourire. Je n’ai jamais eu quelqu’un dans ma vie qui était aussi incroyable que vous. Je t’aime!",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":4,
+         "name_category":"Je Taime",
+         "author":"Je Taime",
+         "quotes":"Quand je te regarde dans les yeux, je vois un monde plein d’amour et d’affection. Je veux me perdre dans tes yeux et me retrouver dans un nouveau monde. Je t’aime!",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":5,
+         "name_category":"Je Taime",
+         "author":"Je Taime",
+         "quotes":"Quand je vous regarde dans les yeux, je me perds dans l’immensité d’un océan plein d’amour. Je me sens chanceux parce que tu es dans ma vie. Je t’aime!",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":6,
+         "name_category":"Je Taime",
+         "author":"Je Taime",
+         "quotes":"Un jour, j’écrirais peut-être un poème pour décrire ta beauté ou une chanson pour exprimer mon affection pour toi. Mais en ce moment, je suis juste perdu dans ton amour!",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":7,
+         "name_category":"Je Taime",
+         "author":"Je Taime",
+         "quotes":"T’aimer est la seule chose qui fait que ma vie vaut la peine d’être vécue. J’apprécie chaque moment que je passe à t’aimer. Tu es mon soleil dans la vie!",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":8,
+         "name_category":"Je Taime",
+         "author":"Je Taime",
+         "quotes":"Je t’ai aimé plus de fois que je ne me suis aimé moi-même. Vous êtes la raison pour laquelle je suis toujours heureux et plein d’espoir. Je t’aime tellement!",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":9,
+         "name_category":"Je Taime",
+         "author":"Je Taime",
+         "quotes":"Tu as une aura autour de toi et chaque fois que tu t’approches de moi, je me sens chanceux d’être englouti dans ton aura de bonheur.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":10,
+         "name_category":"Je Taime",
+         "author":"Je Taime",
+         "quotes":"Je pourrais vivre sans toi, mais cette vie n’aurait aucun sens. Je ne veux jamais te perdre parce que je suis passionnément amoureux de ton âme.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":11,
+         "name_category":"Je Taime",
+         "author":"Je Taime",
+         "quotes":"L’amour prend du temps à se développer, mais mon amour pour toi grandit de façon exponentielle chaque jour. Je t’aime mon partenaire admiratif.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":12,
+         "name_category":"Je Taime",
+         "author":"Je Taime",
+         "quotes":"Quand je suis avec vous, tout ce que je fais, c’est prier Dieu qu’il empêche le temps de couler. Tout ce que je veux dans la vie, c’est passer une éternité avec toi. Je t’aime chérie!",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":13,
+         "name_category":"Je Taime",
+         "author":"Je Taime",
+         "quotes":"Si tu me demandes pourquoi je t’aime autant, je répondrais parce que je vois une partie de moi-même en toi et parce que tu me laisses être moi-même quand je suis avec toi.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":14,
+         "name_category":"Je Taime",
+         "author":"Je Taime",
+         "quotes":"Tu as pris le contrôle de mon cœur dès le moment où je t’ai rencontré. Maintenant, le propriétaire de mon cœur, c’est vous. Prenez-en soin et donnez-lui ce qu’il veut. Je t’aime!",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":15,
+         "name_category":"Je Taime",
+         "author":"Je Taime",
+         "quotes":"J’ai vécu une vie en noir et blanc jusqu’à ce que je te rencontre. Vous y avez apporté des couleurs et maintenant je vois des arcs-en-ciel partout. Je t’aime!",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":1,
+         "name_category":"Doux messages d’amour",
+         "author":"Doux messages d’amour",
+         "quotes":"Rien dans ce monde n’est aussi précieux que votre amour pour moi. Que notre amour dure pour toujours.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":2,
+         "name_category":"Doux messages d’amour",
+         "author":"Doux messages d’amour",
+         "quotes":"Regardez le clavier de l’ordinateur, vous et moi étions placés côte à côte. C’est ainsi que les alphabets devraient être arrangés parce que mon amour ne cessera jamais d’exister tant que c’est vous et moi.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":3,
+         "name_category":"Doux messages d’amour",
+         "author":"Doux messages d’amour",
+         "quotes":"Chaque fois que je te regarde, je me souris et je me fais un simple sourire et je me suis dit : « Je n’aurais certainement pas pu faire mieux ». Vous êtes parfait comme vous êtes. Je t’aime, chérie.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":4,
+         "name_category":"Doux messages d’amour",
+         "author":"Doux messages d’amour",
+         "quotes":"Aucun mot ne peut décrire ce que vous voulez dire pour moi. Tu es le soleil de ma vie. Tu illumines chaque fois que je marche et tu me donnes du courage. Je t’aime tellement.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":5,
+         "name_category":"Doux messages d’amour",
+         "author":"Doux messages d’amour",
+         "quotes":"Je sais que je fais beaucoup de choses stupides, et je ne suis pas assez bon pour vous, mais merci d’être toujours à côté de moi.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":6,
+         "name_category":"Doux messages d’amour",
+         "author":"Doux messages d’amour",
+         "quotes":"Tu es parfait, mais ce sont tes imperfections qui me font t’aimer de plus en plus chaque jour.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":7,
+         "name_category":"Doux messages d’amour",
+         "author":"Doux messages d’amour",
+         "quotes":"Tu n’es pas seulement mon amant. Vous êtes mon médecin en santé mentale. Ton amour est le meilleur remède qui me permet de continuer, et je ne peux pas t’aimer assez pour cela.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":8,
+         "name_category":"Doux messages d’amour",
+         "author":"Doux messages d’amour",
+         "quotes":"L’amour que vous avez dans votre cœur pour moi est la forme d’affection la plus vraie et la plus pure, et je le cherche follement.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":9,
+         "name_category":"Doux messages d’amour",
+         "author":"Doux messages d’amour",
+         "quotes":"La façon dont tu m’aimes, j’espère que je pourrai le rendre à ton cœur de la même manière. Reste avec moi toujours, ma chérie.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":10,
+         "name_category":"Doux messages d’amour",
+         "author":"Doux messages d’amour",
+         "quotes":"Le temps que nous avons passé ensemble est le meilleur moment pour moi. Je t’aime plus que je ne peux le dire.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":11,
+         "name_category":"Doux messages d’amour",
+         "author":"Doux messages d’amour",
+         "quotes":"Un ciel plein d’étoiles n’est même pas comparable à mon amour pour vous. Mon amour, mes sentiments pour toi sont incommensurables. Tu es ma chérie.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":12,
+         "name_category":"Doux messages d’amour",
+         "author":"Doux messages d’amour",
+         "quotes":"Tu es le plus bel ajout au voyage de ma vie, et je ne pourrais pas en vouloir plus. Je t’aime jusqu’à la lune et retour.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":13,
+         "name_category":"Doux messages d’amour",
+         "author":"Doux messages d’amour",
+         "quotes":"Ma vie est incomplète sans ton amour. Mon âme est incomplète sans votre compagnie. Ne me quittez pas jusqu’à mon dernier souffle. Je t’aime tellement.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":14,
+         "name_category":"Doux messages d’amour",
+         "author":"Doux messages d’amour",
+         "quotes":"Sans toi, ma vie est comme une terre sans soleil. Tu es la couleur qui apporte le bonheur dans mon voyage de vie.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":1,
+         "name_category":"d’amour pour petite amie",
+         "author":"d’amour pour petite amie",
+         "quotes":"Tu es la raison de mon sourire et de mon bonheur. Je t’aime!",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":2,
+         "name_category":"d’amour pour petite amie",
+         "author":"d’amour pour petite amie",
+         "quotes":"Mon cœur vous appartient et il ne veut rien d’autre que vous. Je t’aime, belle.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":3,
+         "name_category":"d’amour pour petite amie",
+         "author":"d’amour pour petite amie",
+         "quotes":"Je me considère comme l’homme le plus chanceux du monde parce que je t’ai à côté de moi. Je t’aime, ma chérie.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":4,
+         "name_category":"d’amour pour petite amie",
+         "author":"d’amour pour petite amie",
+         "quotes":"Mon monde était si vide et sombre. Mais quand je t’ai rencontré, soudain, j’ai eu l’impression que le ciel au-dessus de moi s’était éclairci de mille étoiles. Je t’aime!",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":5,
+         "name_category":"d’amour pour petite amie",
+         "author":"d’amour pour petite amie",
+         "quotes":"Dire « je t’aime » tous les jours ne suffit pas, et c’est un euphémisme. Tu es mon âme sœur, et je ne peux pas vivre sans toi.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":6,
+         "name_category":"d’amour pour petite amie",
+         "author":"d’amour pour petite amie",
+         "quotes":"Je tombe amoureux de toi chaque fois que je te vois. Vous avez cette magie. Garde mon cœur en sécurité dans ta boîte magique ma beauté.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":7,
+         "name_category":"d’amour pour petite amie",
+         "author":"d’amour pour petite amie",
+         "quotes":"Je vous dédicace toutes les chansons d’amour de ce monde parce que vous êtes digne de toutes ces belles paroles. Je t’aime, belle.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":8,
+         "name_category":"d’amour pour petite amie",
+         "author":"d’amour pour petite amie",
+         "quotes":"Si on me donnait tout le temps pour vivre du big bang au big crunch, je passerais tout mon temps à t’aimer.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":9,
+         "name_category":"d’amour pour petite amie",
+         "author":"d’amour pour petite amie",
+         "quotes":"Il est difficile de trouver quelqu’un prêt à rester avec vous dans tous les hauts et les bas de votre vie. Je me sens béni de t’avoir dans ma vie parce que je sais que quoi qu’il arrive, tu ne cesseras jamais de m’aimer !",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":10,
+         "name_category":"d’amour pour petite amie",
+         "author":"d’amour pour petite amie",
+         "quotes":"L’amour ne peut jamais être mesuré. Cela ne peut qu’être ressenti. Je ne veux rien d’autre tant que ton amour est avec moi!",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":11,
+         "name_category":"d’amour pour petite amie",
+         "author":"d’amour pour petite amie",
+         "quotes":"Même si les étoiles ne brillent pas et que la lune refuse d’éclairer le monde, je sais que je n’ai rien à craindre. J’ai mon ange gardien pour prendre soin de moi, prendre soin de moi et m’aimer pour toujours et toujours. Je t’aime!",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":12,
+         "name_category":"d’amour pour petite amie",
+         "author":"d’amour pour petite amie",
+         "quotes":"Mon amour pour toi devient toujours plus fort et je me perds lentement plus profondément dedans.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":13,
+         "name_category":"d’amour pour petite amie",
+         "author":"d’amour pour petite amie",
+         "quotes":"Depuis que tu es entré dans ma vie, il y a eu des chapitres avant toi et il n’y aura jamais de chapitre après toi. Il ne s’agit que de vous et de vous!",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":14,
+         "name_category":"d’amour pour petite amie",
+         "author":"d’amour pour petite amie",
+         "quotes":"J’espère que vous savez que partout où je vais ou quoi que je fasse, je vous ai toujours à l’esprit. Merci de m’avoir fait de l’amour.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":15,
+         "name_category":"d’amour pour petite amie",
+         "author":"d’amour pour petite amie",
+         "quotes":"Mon amour, avec toi dans ma vie, chaque jour ressemble à des vacances! J’ai donc hâte de t’épouser et de passer d’éternelles vacances heureuses!",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":16,
+         "name_category":"d’amour pour petite amie",
+         "author":"d’amour pour petite amie",
+         "quotes":"La vie m’a jeté beaucoup de citrons, mais la vie m’a aussi donné ta présence. Et j’en suis éternellement reconnaissant. Tu es tout pour moi !",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":17,
+         "name_category":"d’amour pour petite amie",
+         "author":"d’amour pour petite amie",
+         "quotes":"Chaque fois que je m’éloigne de toi, je commence à avoir un peu le mal du pays. Parce que même quand nous sommes séparés, je continue à te chercher. Je t’aime!",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":18,
+         "name_category":"d’amour pour petite amie",
+         "author":"d’amour pour petite amie",
+         "quotes":"Bébé, nous ne sommes peut-être pas attachés à la corde rouge du destin, mais je ne doute pas que tu sois mon âme sœur pour toujours.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":19,
+         "name_category":"d’amour pour petite amie",
+         "author":"d’amour pour petite amie",
+         "quotes":"Chérie, tu sais pourquoi je n’aime pas les films romantiques? C’est parce que vous et moi faisons la plus grande histoire d’amour de tous les temps et que personne ne peut même s’en approcher!",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":20,
+         "name_category":"d’amour pour petite amie",
+         "author":"d’amour pour petite amie",
+         "quotes":"Je n’ai pas besoin d’une photo de toi dans mon portefeuille car je t’ai dans mon cœur. Je t’aime tellement, chérie.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":21,
+         "name_category":"d’amour pour petite amie",
+         "author":"d’amour pour petite amie",
+         "quotes":"Quand tu es entré dans ma vie, tu as illuminé tout mon monde. Merci d’en avoir un sens propre; Je t’aime.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":22,
+         "name_category":"d’amour pour petite amie",
+         "author":"d’amour pour petite amie",
+         "quotes":"Je t’aime comme le nuage aime le ciel; Je t’aime comme les oiseaux aiment voler, je t’aime comme les vagues aiment la mer, je t’aime comme le miel est aimé par l’abeille.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":23,
+         "name_category":"d’amour pour petite amie",
+         "author":"d’amour pour petite amie",
+         "quotes":"Si les âmes sœurs existent, nous aurions le lien le plus fort de tous les temps! Mon amour pour toi ne s’estompera jamais, bébé.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":24,
+         "name_category":"d’amour pour petite amie",
+         "author":"d’amour pour petite amie",
+         "quotes":"Cher, porte mon cœur dans ta paume pour que je puisse t’appeler le mien. Je t’aime, maintenant et pour toujours!",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":25,
+         "name_category":"d’amour pour petite amie",
+         "author":"d’amour pour petite amie",
+         "quotes":"Mon ange, tu me donnes tellement, mais en retour, je ne t’ai rien donné. S’il vous plaît, restez avec moi jusqu’au dernier jour de mon souffle. Je promets de faire de toi ma Reine. Je t’aime.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":1,
+         "name_category":"d’amour pour petit ami",
+         "author":"d’amour pour petit ami",
+         "quotes":"Je t’aime de tout mon cœur, chérie!",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":2,
+         "name_category":"d’amour pour petit ami",
+         "author":"d’amour pour petit ami",
+         "quotes":"Mon amour pour toi ne fait que grandir de jour en jour parce que je suis vraiment accro à toi ! Je t’aime chéri.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":3,
+         "name_category":"d’amour pour petit ami",
+         "author":"d’amour pour petit ami",
+         "quotes":"Je me sens belle et spéciale chaque fois que je suis avec toi. Je ne peux jamais te lâcher. Je t’aime tellement.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":4,
+         "name_category":"d’amour pour petit ami",
+         "author":"d’amour pour petit ami",
+         "quotes":"Plus je passe du temps avec toi, plus je tombe amoureux de toi tous les jours. Tu as un cœur très doux et beau dont je promets de prendre soin toute ma vie. Je t’aime!",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":5,
+         "name_category":"d’amour pour petit ami",
+         "author":"d’amour pour petit ami",
+         "quotes":"Tu remplis mon cœur d’une joie innombrable chaque fois que tu souris. C’est un privilège pour tout le monde de pouvoir vous aimer! Je me sens chanceux à chaque instant!",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":6,
+         "name_category":"d’amour pour petit ami",
+         "author":"d’amour pour petit ami",
+         "quotes":"J’étais perdue et désespérée. Mais je n’arrêtais pas de prier pour qu’un sauveur vienne dans ma vie. Dieu a accepté ma prière et t’a envoyé. Maintenant, je vous dois ma vie pour l’éternité. T’aimer follement est la seule chose que je peux faire parfaitement!",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":7,
+         "name_category":"d’amour pour petit ami",
+         "author":"d’amour pour petit ami",
+         "quotes":"Merci d’être toujours là pour moi. Je n’ai jamais connu quelqu’un qui puisse aimer avec une telle intensité. Pour moi, vous êtes le meilleur amant de ce monde. Je ne peux m’empêcher de t’aimer profondément.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":8,
+         "name_category":"d’amour pour petit ami",
+         "author":"d’amour pour petit ami",
+         "quotes":"Ma vie était vide et mon cœur s’est refroidi. Puis tu es entré dans ma vie, tu as réchauffé mon cœur avec ton amour et ma vie remplie de bonheur. J’adore ça!",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":9,
+         "name_category":"d’amour pour petit ami",
+         "author":"d’amour pour petit ami",
+         "quotes":"La question du cœur est compliquée, mais je suis heureux de vous avoir fait rendre cette chose plus simple. Sois toujours avec moi mon homme.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":10,
+         "name_category":"d’amour pour petit ami",
+         "author":"d’amour pour petit ami",
+         "quotes":"Ton amour pour moi est unique en son genre. Personne dans ce monde ne peut ou ne voudra m’aimer comme vous. Tu es l’étoile la plus brillante qui illumine ma vie tous les jours.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":11,
+         "name_category":"d’amour pour petit ami",
+         "author":"d’amour pour petit ami",
+         "quotes":"J’aime la façon dont tu me fais tomber amoureux non seulement de toi, mais aussi de tout, nouvellement. Tu es ma précieuse chérie. Je t’aime tellement.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":12,
+         "name_category":"d’amour pour petit ami",
+         "author":"d’amour pour petit ami",
+         "quotes":"Au cas où vous ne le sauriez pas, vous êtes mon n°1 ! Merci de vous en tenir à travers les épaisseurs et les minces. Je t’aime jusqu’à la lune et retour. Petit ami.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":13,
+         "name_category":"d’amour pour petit ami",
+         "author":"d’amour pour petit ami",
+         "quotes":"Mon amour pour toi est incommensurable et il grandit chaque jour. Avec ton amour dans mon cœur, je rends l’impossible possible.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":14,
+         "name_category":"d’amour pour petit ami",
+         "author":"d’amour pour petit ami",
+         "quotes":"Cher petit ami, j’ai hâte de t’épouser un jour et de vivre heureux pour toujours. Merci de me faire croire que ce n’est pas irréel. Je t’aime.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":15,
+         "name_category":"d’amour pour petit ami",
+         "author":"d’amour pour petit ami",
+         "quotes":"Je suis reconnaissant pour tous les beaux moments et les textes doux. Tu es mon être humain préféré. Je t’aime plus qu’hier, moins que demain.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":16,
+         "name_category":"d’amour pour petit ami",
+         "author":"d’amour pour petit ami",
+         "quotes":"Merci de m’avoir fait l’expérience de ce genre d’amour magique; Je ne peux pas penser à mon avenir avec quelqu’un d’autre que toi ! Je t’aime tellement.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":17,
+         "name_category":"d’amour pour petit ami",
+         "author":"d’amour pour petit ami",
+         "quotes":"Tu sais, tu vis dans mon cœur depuis trop longtemps. Il est temps de commencer à payer le loyer.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":18,
+         "name_category":"d’amour pour petit ami",
+         "author":"d’amour pour petit ami",
+         "quotes":"Tu es mon Hercule. J’espère que les flammes de notre amour dureront pour l’éternité.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":19,
+         "name_category":"d’amour pour petit ami",
+         "author":"d’amour pour petit ami",
+         "quotes":"Je veux te tenir la main au clair de lune pendant que tu places avec amour une fleur de cerisier sur mes cheveux.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":20,
+         "name_category":"d’amour pour petit ami",
+         "author":"d’amour pour petit ami",
+         "quotes":"Soyez la bougie qui donne de la lumière, pas la bougie qui est fondue par sa propre lumière. Je t’aime.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":21,
+         "name_category":"d’amour pour petit ami",
+         "author":"d’amour pour petit ami",
+         "quotes":"Dans ce monde plein de chaos, je trouve la paix dans vos bras. Ne me laissez jamais partir, car je ne peux pas vivre sans toi !",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":22,
+         "name_category":"d’amour pour petit ami",
+         "author":"d’amour pour petit ami",
+         "quotes":"J’aimerais que vous sachiez à quel point vous êtes spécial pour moi. Je me sens en sécurité autour de toi. La façon dont tu me protèges et m’aimes me fait me sentir si spéciale. Je t’aime beaucoup, ma chérie.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":23,
+         "name_category":"d’amour pour petit ami",
+         "author":"d’amour pour petit ami",
+         "quotes":"Rien ne me rend plus heureux que ton sourire, et personne ne me fait sentir comme toi. Tu es ma maison.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":1,
+         "name_category":"d’amour pour la femme",
+         "author":"d’amour pour la femme",
+         "quotes":"J’ai commencé à croire aux contes de fées après t’avoir épousée. J’ai réalisé que tu es mon bonheur pour toujours.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":2,
+         "name_category":"d’amour pour la femme",
+         "author":"d’amour pour la femme",
+         "quotes":"Ma chère femme, tu es la plus jolie que les plus jolies fleurs pour moi. Chaque jour, je tombe amoureuse de ce visage magnifique et de ce cœur doré que vous avez.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":3,
+         "name_category":"d’amour pour la femme",
+         "author":"d’amour pour la femme",
+         "quotes":"Parce que tu es dans ma vie, tout semble parfait, et rien n’est déséquilibré. Je t’aime pour avoir fait de ma vie un coin de paradis.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":4,
+         "name_category":"d’amour pour la femme",
+         "author":"d’amour pour la femme",
+         "quotes":"Tu es mon plus grand réconfort et ma plus grande inspiration. Tu es la raison pour laquelle ma vie est si belle et mes rêves sont si colorés.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":5,
+         "name_category":"d’amour pour la femme",
+         "author":"d’amour pour la femme",
+         "quotes":"Vous gardez ma vie sur la bonne voie et tout en équilibre. Vous êtes une femme parfaite. Dire « Je t’aime » est tout simplement un euphémisme.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":6,
+         "name_category":"d’amour pour la femme",
+         "author":"d’amour pour la femme",
+         "quotes":"Chérie, tu n’es pas mon autre « moitié » parce que tu es une personne complète et belle toi-même. Au contraire, vous m’avez complimenté d’une manière telle que personne ne le pouvait. Je t’aime!",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":7,
+         "name_category":"d’amour pour la femme",
+         "author":"d’amour pour la femme",
+         "quotes":"Vous savez, nous sommes comme les deux chaussettes d’une paire et comme les oiseaux de la même plume. Tu remplis ma vie de ta présence, et j’ai tellement de chance de t’avoir !",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":8,
+         "name_category":"d’amour pour la femme",
+         "author":"d’amour pour la femme",
+         "quotes":"T’épouser était un conte de fées qui s’est réalisé pour moi. Je vis toujours dans un fantasme, et tout le mérite en revient à vous. Je t’aime!",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":9,
+         "name_category":"d’amour pour la femme",
+         "author":"d’amour pour la femme",
+         "quotes":"Vous êtes le genre d’épouse que tout homme désire. Vous êtes cette fée qui vient dans un rêve et ne disparaît jamais même lorsque le rêve est terminé.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":10,
+         "name_category":"d’amour pour la femme",
+         "author":"d’amour pour la femme",
+         "quotes":"Certaines personnes deviennent plus douces en vieillissant, et certains amours deviennent plus forts avec le temps. Le premier est vrai pour vous et le second est pour moi !",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":11,
+         "name_category":"d’amour pour la femme",
+         "author":"d’amour pour la femme",
+         "quotes":"J’aime la façon dont vous continuez à me couper le souffle à chaque fois. Je t’aime tellement, chérie.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":12,
+         "name_category":"d’amour pour la femme",
+         "author":"d’amour pour la femme",
+         "quotes":"Mon amour pour toi devient plus fort avec le temps, et je ne te lâcherai jamais. Merci de m’avoir épousée, ma belle femme.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":13,
+         "name_category":"d’amour pour la femme",
+         "author":"d’amour pour la femme",
+         "quotes":"Ma vie est un rêve, et vous êtes la belle fée en elle. La meilleure chose est que vous ne disparaissez jamais, même quand je me réveille. Aimez-vous, très chère épouse.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":14,
+         "name_category":"d’amour pour la femme",
+         "author":"d’amour pour la femme",
+         "quotes":"Si l’incarnation est vraie, je te voudrai comme ma femme dans chaque vie que j’ai. Tu es ma force et ma plus grande inspiration.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":15,
+         "name_category":"d’amour pour la femme",
+         "author":"d’amour pour la femme",
+         "quotes":"Dès le premier instant où je t’ai vu, j’ai su que je ne m’installerais pas pour moins. Vous et moi ne sommes peut-être pas irréprochables, mais nous sommes parfaits l’un pour l’autre. Je t’aime!",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":16,
+         "name_category":"d’amour pour la femme",
+         "author":"d’amour pour la femme",
+         "quotes":"Je saute toujours mon rythme cardiaque chaque fois que je te regarde. Tu es sûrement la meilleure chose qui me soit jamais arrivée.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":17,
+         "name_category":"d’amour pour la femme",
+         "author":"d’amour pour la femme",
+         "quotes":"Ta gentillesse authentique et ta belle âme capturent mon cœur à chaque fois, chérie. Je t’aime toujours et pour toujours, ma chérie.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":18,
+         "name_category":"d’amour pour la femme",
+         "author":"d’amour pour la femme",
+         "quotes":"Chère épouse, j’espère que tu sais que tu es l’amour de ma vie. Merci d’avoir dit « Oui », merci pour tout !",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":19,
+         "name_category":"d’amour pour la femme",
+         "author":"d’amour pour la femme",
+         "quotes":"Chérie, tu es mon compagnon de vie, dans la joie et le chagrin, et ma véritable âme sœur! Je ne pourrais pas être plus amoureux de toi!",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":20,
+         "name_category":"d’amour pour la femme",
+         "author":"d’amour pour la femme",
+         "quotes":"Ton amour me rappelle le printemps, car il m’apporte des rires sans fin et l’air frais de la joie! Je t’aime chéri!",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":21,
+         "name_category":"d’amour pour la femme",
+         "author":"d’amour pour la femme",
+         "quotes":"Une belle fille avec un cœur tendre et attentionné - je suis chanceux d’avoir une femme aussi parfaite! Tu es mon ange, amour!",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":22,
+         "name_category":"d’amour pour la femme",
+         "author":"d’amour pour la femme",
+         "quotes":"La façon dont vous me motivez et me poussez chaque jour, je ne peux pas exprimer ma gratitude avec des mots. Personne ne me comprend mieux que toi, la Reine de la maison. Je t’aime.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":23,
+         "name_category":"d’amour pour la femme",
+         "author":"d’amour pour la femme",
+         "quotes":"Je vois toujours le même amour et le même dévouement dans tes yeux. Toutes ces années, mais vous n’avez jamais changé un peu.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":1,
+         "name_category":"d’amour pour le mari",
+         "author":"d’amour pour le mari",
+         "quotes":"Je suis la femme la plus chanceuse au monde d’avoir le meilleur homme comme partenaire. Merci d’avoir rendu ma vie tout simplement incroyable!",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":2,
+         "name_category":"d’amour pour le mari",
+         "author":"d’amour pour le mari",
+         "quotes":"Tu as accompli ma vie. Vous épouser est comme un rêve devenu réalité. Je t’aime, cher mari.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":3,
+         "name_category":"d’amour pour le mari",
+         "author":"d’amour pour le mari",
+         "quotes":"Vous êtes parfait même avec toutes vos imperfections. Vous êtes incroyable, même dans les moments où vous êtes ennuyeux. Je t’aime pour tout!",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":4,
+         "name_category":"d’amour pour le mari",
+         "author":"d’amour pour le mari",
+         "quotes":"Je trouve la paix quand je suis avec toi. Je ne veux rien de plus que toi et rien de moins que toi !",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":5,
+         "name_category":"d’amour pour le mari",
+         "author":"d’amour pour le mari",
+         "quotes":"Chaque moment avec vous est une bénédiction. Tu es l’âme la plus forte et la plus gentille que j’ai jamais rencontrée et j’ai la chance de t’avoir comme compagnon.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":6,
+         "name_category":"d’amour pour le mari",
+         "author":"d’amour pour le mari",
+         "quotes":"Je ne pense pas que je pourrai jamais remercier assez Dieu de t’avoir envoyé dans ma vie et de m’avoir béni. Merci d’être le meilleur! Je t’aime.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":7,
+         "name_category":"d’amour pour le mari",
+         "author":"d’amour pour le mari",
+         "quotes":"À travers les épaisseurs et les minces, nous avons été ensemble. Que Dieu bénisse notre lien et nous garde en sécurité. Je t’aimerai encore mille ans, mari.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":8,
+         "name_category":"d’amour pour le mari",
+         "author":"d’amour pour le mari",
+         "quotes":"Vous rendez chaque matin un peu plus lumineux et chaque soir un peu plus étincelant qu’avant. Merci d’être venu dans ma vie. Je t’aime, chérie.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":9,
+         "name_category":"d’amour pour le mari",
+         "author":"d’amour pour le mari",
+         "quotes":"Merci, mari, Tu es là quand je me sens triste, Tu es là quand mon humeur est mauvaise, Tu me soutiens toujours dans la vie, Tu es la seule raison pour laquelle je survis. Je t’aime!",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":10,
+         "name_category":"d’amour pour le mari",
+         "author":"d’amour pour le mari",
+         "quotes":"Tu m’as donné toutes les raisons de t’aimer mais je t’aime pour tout ce que tu es et tout ce que tu n’es pas. Je t’aime aujourd’hui, demain et tous les jours!",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":11,
+         "name_category":"d’amour pour le mari",
+         "author":"d’amour pour le mari",
+         "quotes":"Faire le vœu avec vous a été la meilleure décision que j’ai jamais prise. Il est impossible de vivre sans toi, mon homme. Je t’aime au maximum.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":12,
+         "name_category":"d’amour pour le mari",
+         "author":"d’amour pour le mari",
+         "quotes":"Les choses que vous faites pour notre famille et moi me font fondre le cœur et me font réaliser à quel point j’ai de la chance de vous avoir à mes côtés pour toujours. Reste toujours avec moi, cher mari.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":13,
+         "name_category":"d’amour pour le mari",
+         "author":"d’amour pour le mari",
+         "quotes":"Tu as capturé mon âme avec ton amour inconditionnel pour moi. Je souhaite que vous ressentiez autant d’amour que vous me faites toujours sentir!",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":14,
+         "name_category":"d’amour pour le mari",
+         "author":"d’amour pour le mari",
+         "quotes":"Dans cette vie, Dieu m’a béni avec beaucoup de choses, mais la meilleure est évidemment toi, mon cher mari.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":15,
+         "name_category":"d’amour pour le mari",
+         "author":"d’amour pour le mari",
+         "quotes":"Chaque moment que j’ai passé avec toi est si précieux pour moi. Tu rends mon monde plus lumineux, et je t’aime tous les jours!",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":16,
+         "name_category":"d’amour pour le mari",
+         "author":"d’amour pour le mari",
+         "quotes":"Se réveiller tous les jours à vos côtés et écouter vos chuchotements est un rêve devenu réalité! Je t’aime, bébé!",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":17,
+         "name_category":"d’amour pour le mari",
+         "author":"d’amour pour le mari",
+         "quotes":"Ma vie a trouvé son sens quand tu avais juré d’être avec moi pour toujours. Bébé, tu es mon ancre, et je t’aime !",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":18,
+         "name_category":"d’amour pour le mari",
+         "author":"d’amour pour le mari",
+         "quotes":"J’ai la chance d’avoir un mari qui me soutient comme vous à mes côtés qui m’aime inconditionnellement et me motive à faire de mon mieux.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":1,
+         "name_category":"d'amour touchant au coeur",
+         "author":"d'amour touchant au coeur",
+         "quotes":"S’il y a une chose dans ce monde que j’ai peur de perdre, c’est vous. Je suis tellement amoureux de toi que je ne peux pas me permettre de te perdre!",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":2,
+         "name_category":"d'amour touchant au coeur",
+         "author":"d'amour touchant au coeur",
+         "quotes":"Je rêve d’un monde où vous et moi vivrions pendant mille ans pour nous aimer. Je sais que je ne me lasserai jamais de t’aimer.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":3,
+         "name_category":"d'amour touchant au coeur",
+         "author":"d'amour touchant au coeur",
+         "quotes":"Le Tout-Puissant m’a béni avec un joyau aussi précieux que vous. Je ne te laisserai jamais partir. Je t’aime.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":4,
+         "name_category":"d'amour touchant au coeur",
+         "author":"d'amour touchant au coeur",
+         "quotes":"Chaque moment que j’ai passé avec toi me semble être un trésor. Je vous préserverai, vous et ces trésors, toute la vie. Je ne te laisserai jamais t’éloigner de moi. Je t’aime.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":5,
+         "name_category":"d'amour touchant au coeur",
+         "author":"d'amour touchant au coeur",
+         "quotes":"Si j’étais une goutte de larme dans ton œil, je roulerais sur tes lèvres. Mais si tu avais une larme à l’œil, je ne pleurerais jamais car j’aurais peur de te perdre.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":6,
+         "name_category":"d'amour touchant au coeur",
+         "author":"d'amour touchant au coeur",
+         "quotes":"Si tu pouvais te voir à travers mes yeux, tu sauras combien je t’aime. Tu occupes une place très spéciale dans mon cœur ! Je t’aimerai pour toujours!",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":7,
+         "name_category":"d'amour touchant au coeur",
+         "author":"d'amour touchant au coeur",
+         "quotes":"Tu as transformé toutes mes imperfections en perfection juste par la puissance de ton amour. Je t’aime pour toutes les grandes choses que tu as faites pour moi.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":8,
+         "name_category":"d'amour touchant au coeur",
+         "author":"d'amour touchant au coeur",
+         "quotes":"Je suis tombé amoureux dès le premier instant où je t’ai vu. Mon amour pour toi ne s’effacera jamais. Je t’aime pour tout ce que tu es!",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":9,
+         "name_category":"d'amour touchant au coeur",
+         "author":"d'amour touchant au coeur",
+         "quotes":"Il n’y a pas une seule échelle dans ce monde qui puisse mesurer mon amour pour vous. C’est plus profond que l’océan et plus vrai que ma réalité!",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":10,
+         "name_category":"d'amour touchant au coeur",
+         "author":"d'amour touchant au coeur",
+         "quotes":"Chaque matin de ma vie me donne une nouvelle raison de t’aimer et de t’apprécier pour ce que tu m’as donné. C’est toi qui détient la clé de mon cœur !",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":11,
+         "name_category":"d'amour touchant au coeur",
+         "author":"d'amour touchant au coeur",
+         "quotes":"Je t’aime pour être mon véritable amant, mon plus grand ami et mon compagnon le plus fidèle. Sans toi, ma vie n’est rien d’autre qu’un océan de poussière.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":12,
+         "name_category":"d'amour touchant au coeur",
+         "author":"d'amour touchant au coeur",
+         "quotes":"Aucune peur ne peut me toucher, sauf la peur de te perdre. Je n’ai jamais autant aimé quelqu’un auparavant. Mon seul espoir dans la vie, c’est toi. Je t’aime!",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":13,
+         "name_category":"d'amour touchant au coeur",
+         "author":"d'amour touchant au coeur",
+         "quotes":"Tant que tu es dans ma vie, je n’ai absolument aucune raison d’être triste. Vous seul pouvez me donner tout ce que je veux dans la vie. Je t’aime pour ça!",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":14,
+         "name_category":"d'amour touchant au coeur",
+         "author":"d'amour touchant au coeur",
+         "quotes":"Tu veux tout dire pour moi. Sans vous, tout est terne et dénué de sens. Je veux être avec toi pour une éternité et plus encore. Je t’aime, chérie!",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":15,
+         "name_category":"d'amour touchant au coeur",
+         "author":"d'amour touchant au coeur",
+         "quotes":"Je peux aller à tout moment pour défendre mon amour pour toi. Je n’ai qu’un seul désir dans mon cœur et c’est de t’avoir comme amant. Je t’aime!",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":16,
+         "name_category":"d'amour touchant au coeur",
+         "author":"d'amour touchant au coeur",
+         "quotes":"Je ne vous promettrai jamais tout sur la terre, mais je vous promets tout ce que mon cœur fait ressortir parce que vous possédez mon cœur.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":17,
+         "name_category":"d'amour touchant au coeur",
+         "author":"d'amour touchant au coeur",
+         "quotes":"Je promets d’être votre ange gardien, celui qui vous fait sourire quand vous êtes de mauvaise humeur. Celui qui se soucie de vous que d’elle-même. Celui qui vous aimera jusqu’à la fin des temps. Je t’aime.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":18,
+         "name_category":"d'amour touchant au coeur",
+         "author":"d'amour touchant au coeur",
+         "quotes":"Quand tu me tires dans ta poitrine, le monde ralentit, et mes yeux ne te voient que toi. Tu es ma raison de vivre. Je t’aime!",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":1,
+         "name_category":"Citations d’amour",
+         "author":"Citations d’amour",
+         "quotes":"L’amour, c’est être stupide ensemble. – Paul Valery",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":2,
+         "name_category":"Citations d’amour",
+         "author":"Citations d’amour",
+         "quotes":"Les vraies histoires d’amour n’ont jamais de fin. — Richard Bach",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":3,
+         "name_category":"Citations d’amour",
+         "author":"Citations d’amour",
+         "quotes":"Si je sais ce qu’est l’amour, c’est à cause de toi. – Hermann Hesse",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":4,
+         "name_category":"Citations d’amour",
+         "author":"Citations d’amour",
+         "quotes":"Il y a une folie à vous aimer, un manque de raison qui le rend si impeccable.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":5,
+         "name_category":"Citations d’amour",
+         "author":"Citations d’amour",
+         "quotes":"Si vous voulez savoir à quel point je vous aime et prends soin de vous, comptez les vagues.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":6,
+         "name_category":"Citations d’amour",
+         "author":"Citations d’amour",
+         "quotes":"Les femmes sont faites pour être aimées, pas pour être comprises. – Oscar Wilde",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":7,
+         "name_category":"Citations d’amour",
+         "author":"Citations d’amour",
+         "quotes":"Ma vie n’aurait pas été aussi merveilleuse avec toi. Je n’aurais pas été aussi agréable sans ton amour. Je suis au paradis, vous ayant comme amant.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":8,
+         "name_category":"Citations d’amour",
+         "author":"Citations d’amour",
+         "quotes":"Tu es venu à ma vie comme une bénédiction. Merci, chérie, de ne jamais m’avoir abandonné.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":9,
+         "name_category":"Citations d’amour",
+         "author":"Citations d’amour",
+         "quotes":"Car vous voyez, chaque jour je vous aime plus, aujourd’hui plus qu’hier et moins que demain.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":10,
+         "name_category":"Citations d’amour",
+         "author":"Citations d’amour",
+         "quotes":"Vivre cette vie sans vous ne vaudra rien. Je veux rester avec toi pour toujours et toujours.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":11,
+         "name_category":"Citations d’amour",
+         "author":"Citations d’amour",
+         "quotes":"Je t’aime comme on aime certaines choses sombres, secrètement, entre l’ombre et l’âme.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":12,
+         "name_category":"Citations d’amour",
+         "author":"Citations d’amour",
+         "quotes":"Tu es mon soleil, ma douce bénédiction et ma goutte de joie. Je n’aurais rien pu faire sans toi. Je t’aime.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":13,
+         "name_category":"Citations d’amour",
+         "author":"Citations d’amour",
+         "quotes":"Tout ce dont vous avez besoin, c’est d’amour. – Paul McCartney",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":14,
+         "name_category":"Citations d’amour",
+         "author":"Citations d’amour",
+         "quotes":"Je t’aime et c’est le début et la fin de tout. — F. Scott Fitzgerald",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":15,
+         "name_category":"Citations d’amour",
+         "author":"Citations d’amour",
+         "quotes":"Être profondément aimé par quelqu’un vous donne de la force tandis qu’aimer quelqu’un vous donne profondément du courage. – Lao Tzu",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":16,
+         "name_category":"Citations d’amour",
+         "author":"Citations d’amour",
+         "quotes":"Je suis qui je suis à cause de vous. Tu es toutes les raisons, tous les espoirs et tous les rêves que j’ai jamais eus. – Le carnet",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":17,
+         "name_category":"Citations d’amour",
+         "author":"Citations d’amour",
+         "quotes":"L’amour est un sentiment spécial et j’ai la chance de tomber amoureux de toi. Merci, amour.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":18,
+         "name_category":"Citations d’amour",
+         "author":"Citations d’amour",
+         "quotes":"S’il y a quelque chose comme l’infini dans le monde, je sais où il vit. Il reste sous forme d’amour entre vous et moi et continue de voyager tous les jours!",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":19,
+         "name_category":"Citations d’amour",
+         "author":"Citations d’amour",
+         "quotes":"Mon amour pour toi est si réel qu’il me donne envie de faire des choses irréelles comme sauter sur les nuages et escalader l’arc-en-ciel. Je t’aime.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":20,
+         "name_category":"Citations d’amour",
+         "author":"Citations d’amour",
+         "quotes":"Je jure que je ne pourrais pas t’aimer plus que je ne le fais en ce moment, et pourtant je sais que je le ferai demain.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":21,
+         "name_category":"Citations d’amour",
+         "author":"Citations d’amour",
+         "quotes":"L’eau ne brille que par le soleil. Et c’est toi qui es mon soleil.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":22,
+         "name_category":"Citations d’amour",
+         "author":"Citations d’amour",
+         "quotes":"L’amour était un simple sentiment pour moi jusqu’à ce que je te rencontre. J’ai réalisé que c’était le plus beau sentiment que j’ai jamais ressenti de toute ma vie. Je t’aime tellement.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":23,
+         "name_category":"Citations d’amour",
+         "author":"Citations d’amour",
+         "quotes":"Vous aimer n’a jamais été une option. C’était une nécessité. — Dévorer la vérité",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":24,
+         "name_category":"Citations d’amour",
+         "author":"Citations d’amour",
+         "quotes":"La meilleure chose à laquelle s’accrocher dans la vie est l’un l’autre. – Audrey Hepburn",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":25,
+         "name_category":"Citations d’amour",
+         "author":"Citations d’amour",
+         "quotes":"Je t’aime plus qu’il n’y a d’étoiles dans le ciel et de poissons dans la mer.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":26,
+         "name_category":"Citations d’amour",
+         "author":"Citations d’amour",
+         "quotes":"Si vous êtes un prix, je ferai tout pour vous ramener à la maison. Si vous êtes Médaille, je travaillerai dur pour vous gagner. Si vous êtes une fleur, je vais vous arroser pour qu’il pousse magnifiquement.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":27,
+         "name_category":"Citations d’amour",
+         "author":"Citations d’amour",
+         "quotes":"Si vous écoutez attentivement mes respirations, vous entendrez les mots « Je t’aime » sortir avec chacun d’eux. Je vis littéralement avec toi, et seulement toi. Je t’aime.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":1,
+         "name_category":"Longs messages d’amour",
+         "author":"Longs messages d’amour",
+         "quotes":"La nôtre est la plus belle histoire d’amour qui se soit jamais produite sur cette terre. Pour moi, tu es un joyau inestimable que je ne veux jamais perdre. Ton amour fait que ma vie vaut la peine d’être vécue tous les jours. Merci d’être la personne la plus gentille que j’ai jamais rencontrée!",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":2,
+         "name_category":"Longs messages d’amour",
+         "author":"Longs messages d’amour",
+         "quotes":"Une fille comme toi mérite tout le bonheur du monde. Tu es si précieux pour moi, et je te protégerai de tout mal. Chaque fois que je vois le sourire sur ton visage, j’ai l’impression d’être au paradis. Tu es la plus belle partie de ma vie, et je te garderai toujours heureux, je vous le promets.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":3,
+         "name_category":"Longs messages d’amour",
+         "author":"Longs messages d’amour",
+         "quotes":"Le seul désir de mon cœur est d’être avec vous à chaque instant de ma vie. Ton amour me rapproche de toi comme un aimant. Pour moi, tu es la seule personne avec qui je peux être moi-même sans tous les soucis d’être jugé.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":4,
+         "name_category":"Longs messages d’amour",
+         "author":"Longs messages d’amour",
+         "quotes":"C’est un privilège de se réveiller à côté de vous tous les jours. C’est un rêve devenu réalité de t’avoir à mes côtés. Tu es ma force et mon pouvoir. Tu me rends plein d’espoir même quand il n’y a plus d’espoir. Tu es le trésor que j’ai cherché toute ma vie ! Aimez-vous comme rien n’a d’importance sans vous, cher mari.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":5,
+         "name_category":"Longs messages d’amour",
+         "author":"Longs messages d’amour",
+         "quotes":"Je retrouverai toujours mon chemin vers toi, peu importe où la vie nous mène. Tu es mon âme sœur parfaite et la seule personne qui me connaît mieux que quiconque. Je suis reconnaissant pour chaque moment heureux que j’ai passé avec vous! Tu es ma seule raison de sourire.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":6,
+         "name_category":"Longs messages d’amour",
+         "author":"Longs messages d’amour",
+         "quotes":"Tu es la meilleure chose que la vie m’ait donnée jusqu’à présent et je sais que rien ne peut prendre ta place dans mon cœur. L’amour que j’ai pour toi est pur et éternel !",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":7,
+         "name_category":"Longs messages d’amour",
+         "author":"Longs messages d’amour",
+         "quotes":"Tu apportes tellement de joie dans ma vie qu’il m’est très difficile d’imaginer une vie sans toi. J’ai l’impression de vivre ma vie dans un paradis depuis que je t’ai rencontré. Chaque fois que je pense à toi, mon cœur se réjouit.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":8,
+         "name_category":"Longs messages d’amour",
+         "author":"Longs messages d’amour",
+         "quotes":"J’aime la façon dont même être avec vous toute la journée ne devient pas ennuyeux. Je suppose que c’est ce que fait l’amour! Je veux être avec vous pendant les moments heureux et tristes. Parce que sans bonheur, le chagrin ne vaut rien, et le bonheur ne peut pas être apprécié au maximum sans chagrin. Alors, heureux que je t’aie dans ma vie, le sucre.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":9,
+         "name_category":"Longs messages d’amour",
+         "author":"Longs messages d’amour",
+         "quotes":"Nous vivons dans deux corps différents mais partageons la même âme. Nous parlons dans une seule langue appelée amour, et la seule chose pour laquelle nous sommes bons est de prendre soin les uns des autres. Merci d’être devenu la personne la plus importante de ma vie!",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":10,
+         "name_category":"Longs messages d’amour",
+         "author":"Longs messages d’amour",
+         "quotes":"Notre lien a été décidé au ciel bien avant que nous ne nous rencontrions. Je ne peux jamais penser à un monde sans toi. Tu es le soleil de ma vie. Je me sens bénie chaque jour d’avoir une si belle âme sœur comme toi !",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":11,
+         "name_category":"Longs messages d’amour",
+         "author":"Longs messages d’amour",
+         "quotes":"Un jour sans l’image de votre visage, c’est comme un an de détention militaire. 24 heures sans le son de ta voix est frustrant parce que mon cœur bat tout anormalement à chaque seconde. Tu me manque.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":12,
+         "name_category":"Longs messages d’amour",
+         "author":"Longs messages d’amour",
+         "quotes":"Ton amour fait ressortir le meilleur de moi- Tu me donnes le meilleur pour lequel je priais. Merci de m’aimer de tout votre cœur. Je t’aimerai non pas comme n’importe qui, mais comme personne ne t’a jamais aimé.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":1,
+         "name_category":"d’amour courts",
+         "author":"d’amour courts",
+         "quotes":"Ton amour est tout ce qui fait de moi une personne heureuse dans ce monde malheureux.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":2,
+         "name_category":"d’amour courts",
+         "author":"d’amour courts",
+         "quotes":"Grâce à vous, ma vie est pleine de plaisir, et l’amour ne manque pas!",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":3,
+         "name_category":"d’amour courts",
+         "author":"d’amour courts",
+         "quotes":"Je suis amoureux de toi, et je suis le plus heureux pour le reste de ma vie.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":4,
+         "name_category":"d’amour courts",
+         "author":"d’amour courts",
+         "quotes":"Ma vie n’a jamais été aussi bonne. J’aurais aimé te rencontrer plus tôt.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":5,
+         "name_category":"d’amour courts",
+         "author":"d’amour courts",
+         "quotes":"Peu importe à quel point mes jours sont sombres, ta présence illumine mon cœur à chaque fois.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":6,
+         "name_category":"d’amour courts",
+         "author":"d’amour courts",
+         "quotes":"Je ne peux pas vivre sans toi; tu es la meilleure chose qui me soit jamais arrivée.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":7,
+         "name_category":"d’amour courts",
+         "author":"d’amour courts",
+         "quotes":"Je t’aime et nous voulions l’être, et être ensemble a été inscrit dans notre destinée.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":8,
+         "name_category":"d’amour courts",
+         "author":"d’amour courts",
+         "quotes":"Vous faites de ma vie un endroit meilleur et plein de grands moments. Je t’aime tellement!",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":9,
+         "name_category":"d’amour courts",
+         "author":"d’amour courts",
+         "quotes":"Votre amour est comme une belle île sur laquelle je n’ai aucun problème à être bloqué pour toujours!",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":10,
+         "name_category":"d’amour courts",
+         "author":"d’amour courts",
+         "quotes":"Dans ton sourire, je vois quelque chose de plus beau que des fleurs.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":11,
+         "name_category":"d’amour courts",
+         "author":"d’amour courts",
+         "quotes":"Ma vie est pleinement remplie de joie et de bonheur grâce à vous. Ne me laissez jamais partir!",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":12,
+         "name_category":"d’amour courts",
+         "author":"d’amour courts",
+         "quotes":"Je t’aime plus que je ne peux le dire. Tu es ma personne préférée de tous les temps.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":13,
+         "name_category":"d’amour courts",
+         "author":"d’amour courts",
+         "quotes":"Tu es sans aucun doute le meilleur quand il s’agit de m’aimer!",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":14,
+         "name_category":"d’amour courts",
+         "author":"d’amour courts",
+         "quotes":"Je ne peux jamais penser à quelqu’un d’autre qui pourrait m’aimer si profondément!",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":15,
+         "name_category":"d’amour courts",
+         "author":"d’amour courts",
+         "quotes":"Chérie, Merci d’avoir donné tant d’amour. Je suis si heureux d’être avec vous.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":16,
+         "name_category":"d’amour courts",
+         "author":"d’amour courts",
+         "quotes":"Si jamais je trouvais un génie dans une bouteille, je passerais mes trois souhaits à vous vouloir à mes côtés pour toujours.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":17,
+         "name_category":"d’amour courts",
+         "author":"d’amour courts",
+         "quotes":"Tu es ma plus grande possession et je ne peux pas risquer de te perdre pour quoi que ce soit.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":18,
+         "name_category":"d’amour courts",
+         "author":"d’amour courts",
+         "quotes":"Je tombe encore plus amoureux de toi à chaque seconde. Dites-moi, quel sort magique m’as-tu jeté ?",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":1,
+         "name_category":"Texte d’amour",
+         "author":"Texte d’amour",
+         "quotes":"Je pensais que cet amour était surestimé jusqu’au jour où je suis tombé amoureux de toi. Tu as tout changé, mon monde, ma vie.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":2,
+         "name_category":"Texte d’amour",
+         "author":"Texte d’amour",
+         "quotes":"Je n’ai pas besoin de mille raisons pour me sentir spéciale. Tout ce dont j’ai besoin, c’est de vous pour vivre dans ce monde. Tu es le soleil de ma vie.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":3,
+         "name_category":"Texte d’amour",
+         "author":"Texte d’amour",
+         "quotes":"Mon amour pour toi n’a rien à voir avec moi. Il s’agit de la façon dont vous êtes et de la façon dont vous apportez de la joie à tout le monde autour de vous.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":4,
+         "name_category":"Texte d’amour",
+         "author":"Texte d’amour",
+         "quotes":"Dieu a écouté ma prière et t’a envoyé dans ma vie quand j’ai vraiment besoin d’un sauveur. Que Dieu vous bénisse, mon amour.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":5,
+         "name_category":"Texte d’amour",
+         "author":"Texte d’amour",
+         "quotes":"Le Tout-Puissant vous a choisi pour être mon âme sœur, car personne d’autre ne peut me comprendre mieux que vous. Je t’aime, reste toujours avec moi.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":6,
+         "name_category":"Texte d’amour",
+         "author":"Texte d’amour",
+         "quotes":"Je vais arracher les étoiles du ciel juste pour vous faire sourire, mais que se passe-t-il si la lune se sent seule? Mon amour, honore-moi de ton joli sourire!",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":7,
+         "name_category":"Texte d’amour",
+         "author":"Texte d’amour",
+         "quotes":"Mon amour, tu es la raison derrière chacun de mes sourires. Merci de toujours me soutenir. Je t’aime.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":8,
+         "name_category":"Texte d’amour",
+         "author":"Texte d’amour",
+         "quotes":"Tu m’as fait réaliser que l’amour est le meilleur sentiment qu’un humain puisse ressentir. Merci d’être venu dans ma vie. Je t’aime.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":9,
+         "name_category":"Texte d’amour",
+         "author":"Texte d’amour",
+         "quotes":"Je ne peux pas imaginer survivre à toutes les épreuves de ma vie sans votre amour et votre soutien. Continuez à me tenir les mains fermement pour toujours. Je t’aime.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":10,
+         "name_category":"Texte d’amour",
+         "author":"Texte d’amour",
+         "quotes":"Si jamais tu me demandais de choisir entre toi et mes rêves, je ne saurais pas quoi dire parce qu’être avec toi est mon seul rêve. Je t’aime.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":11,
+         "name_category":"Texte d’amour",
+         "author":"Texte d’amour",
+         "quotes":"Tu apportes des sourires sur mon visage et de la joie dans mon cœur. Tu me rends si heureux que tu es la seule chose à laquelle je pense toute la journée. Je t’aime, chérie.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":12,
+         "name_category":"Texte d’amour",
+         "author":"Texte d’amour",
+         "quotes":"La meilleure chose à propos d’être amoureux de vous est que j’ai commencé à profiter de chaque saison de la vie avec beaucoup plus de zeste que d’habitude. Telle est la magie de votre amour, chérie.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":13,
+         "name_category":"Texte d’amour",
+         "author":"Texte d’amour",
+         "quotes":"Même un médecin serait déconcerté par la façon dont mon cœur décide commodément de battre plus vite ou plus lentement – selon que je pense à vous ou non. ",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":14,
+         "name_category":"Texte d’amour",
+         "author":"Texte d’amour",
+         "quotes":"Tu évoques des émotions heureuses en moi; vous faites apparaître les plus beaux sentiments en moi – ceux que j’ai gardés cachés pendant trop longtemps.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      },
+      {
+         "id":15,
+         "name_category":"Texte d’amour",
+         "author":"Texte d’amour",
+         "quotes":"Croyez-moi quand je dis que votre amour est plus qu’un mot que je peux épeler. C’est tellement réel que je ne peux pas m’en débarrasser. C’est tellement précieux que tout le monde le souhaite. C’est tellement spécial que je n’en ai jamais assez.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsmsaime.png"
+      }
+   ]
+}
