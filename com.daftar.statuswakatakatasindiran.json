@@ -1,0 +1,1892 @@
+{
+   "Ads":[
+      {
+         "select_main_ads":"ADMOB",
+         "select_backup_ads":"APPLOVIN-D",
+         "main_ads_banner":"ca-app-pub-3940256099942544/6300978111x",
+         "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712x",
+         "backup_ads_banner":"db4d5e8718b97d78",
+         "backup_ads_intertitial":"518cd97722c60b52",
+         "interval_intertitial":5,
+         "initialize_sdk":"107355779",
+         "initialize_sdk_backup_ads":"",
+         "high_paying_keyword_1":"",
+         "high_paying_keyword_2":"",
+         "high_paying_keyword_3":"",
+         "high_paying_keyword_4":"",
+         "high_paying_keyword_5":"",
+         "status_app":"0",
+         "link_redirect":"https://"
+      }
+   ],
+   "Categories":[
+      {
+         "name_category":"Kata Sindiran"
+      },
+      {
+         "name_category":"Untuk Pacar"
+      },
+      {
+         "name_category":"Untuk Mantan"
+      },
+      {
+         "name_category":"Untuk Teman"
+      },
+      {
+         "name_category":"Untuk Orang Sombong"
+      },
+      {
+         "name_category":"Untuk Rival"
+      }
+   ],
+   "Quotes":[
+      {
+         "id":1,
+         "name_category":"Kata Sindiran",
+         "author":"Kata Sindiran",
+         "quotes":"Katanya para cewek kalau cowok itu semua sama, lah terus ngapa cewek itu pilih-pilih cowok yak? coba dipikir?”",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":2,
+         "name_category":"Kata Sindiran",
+         "author":"Kata Sindiran",
+         "quotes":"Siapa juga mau temenan sama elu, lah kan lu ada pas ada butuhnya juga. Aku heran aja sih, siapa yang mau temenan sama orang yang suka manfaatin temennya.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":3,
+         "name_category":"Kata Sindiran",
+         "author":"Kata Sindiran",
+         "quotes":"Tahun baru itu gak semua harus baru, buktinya penghuni hatiku masih tetap kamu",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":4,
+         "name_category":"Kata Sindiran",
+         "author":"Kata Sindiran",
+         "quotes":"Mana kata berani? Coba datang langsung kerumah bilang mau seriusin hubungannya..",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":5,
+         "name_category":"Kata Sindiran",
+         "author":"Kata Sindiran",
+         "quotes":"Berharap bisa mengulang waktu, agar aku tak tahu kalo menyayangimu itu akan berasa sesakit ini",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":6,
+         "name_category":"Kata Sindiran",
+         "author":"Kata Sindiran",
+         "quotes":"Kalo kamu menghindar terus akan masalah, maka hal itu tidak akan menyelesaikan masalahmu. Hadapi dengan gagah, selesaikan!",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":7,
+         "name_category":"Kata Sindiran",
+         "author":"Kata Sindiran",
+         "quotes":"Eh itu yang di sana yang dulu pernah bilang ga akan pergi, tolong ingetin dia! mungkin aja dia lupa",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":8,
+         "name_category":"Kata Sindiran",
+         "author":"Kata Sindiran",
+         "quotes":"Percaya sama teman boleh. Tapi jangan telalu percaya. Karena teman juga manusia yang mana bisa saja sesekali salah. Jika hal itu terjadi, maka lenyap sudah hidupmu yang aib ada di tangannya.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":9,
+         "name_category":"Kata Sindiran",
+         "author":"Kata Sindiran",
+         "quotes":"Dibenci tanpa sebab, karena mereka iri Udah gitu doang",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":10,
+         "name_category":"Kata Sindiran",
+         "author":"Kata Sindiran",
+         "quotes":"Brengsek itu kalau mau baperin tapi gak mau tanggung jawab",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":11,
+         "name_category":"Kata Sindiran",
+         "author":"Kata Sindiran",
+         "quotes":"Sekali-kali jadi jahat lah, soalnya baik terus sering dimanfaatin",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":12,
+         "name_category":"Kata Sindiran",
+         "author":"Kata Sindiran",
+         "quotes":"Kalau ditanya selingkuh Jangan dibalas selingkuh juga, Terus apa bedanya aku sama dia",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":13,
+         "name_category":"Kata Sindiran",
+         "author":"Kata Sindiran",
+         "quotes":"Cuma di-read tapi gak dibales, susah emang kalau chat sama orang sok cantik. Tapi emang cantik sih dia",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":14,
+         "name_category":"Kata Sindiran",
+         "author":"Kata Sindiran",
+         "quotes":"Aku bukan siapa siapa untukmu. Kucintaimu tak berarti bahwa ku harus milikimu slamanya. (d'Masiv)",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":15,
+         "name_category":"Kata Sindiran",
+         "author":"Kata Sindiran",
+         "quotes":"Orang bijak akan merasa malu jika kata-katanya lebih baik daripada tindakannya. (Confucius)",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":16,
+         "name_category":"Kata Sindiran",
+         "author":"Kata Sindiran",
+         "quotes":"Kebohongan yang diceritakan terlalu sering lama-lama akan terasa seperti kebenaran. (Vladimir Lenin)",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":17,
+         "name_category":"Kata Sindiran",
+         "author":"Kata Sindiran",
+         "quotes":"Ini hidup saya, kok kamuyang jadi sutradara.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":18,
+         "name_category":"Kata Sindiran",
+         "author":"Kata Sindiran",
+         "quotes":"Kamu itu baik bangetTapi sayang, cuma pas ada maunya.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":19,
+         "name_category":"Kata Sindiran",
+         "author":"Kata Sindiran",
+         "quotes":"Permintaan maaf: Pondasi untuk pelanggaran yang akan dilakukan di masa depan. (Ambrose Bierce)",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":20,
+         "name_category":"Kata Sindiran",
+         "author":"Kata Sindiran",
+         "quotes":"Dengan menjadi pribadi yang sederhana, seseorang akan menjadi dermawan.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":21,
+         "name_category":"Kata Sindiran",
+         "author":"Kata Sindiran",
+         "quotes":"Jika kau selalu menganggapku kurang dan kurang, lalu aku harus bagaimana?.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":22,
+         "name_category":"Kata Sindiran",
+         "author":"Kata Sindiran",
+         "quotes":"Kau tidak akan pernah memahami seseorang hingga kau melihat segala sesuatu dari sudut pandangnyaHingga kau menyusup ke balik kulitnya dan menajalani hidup dengan caranya.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":23,
+         "name_category":"Kata Sindiran",
+         "author":"Kata Sindiran",
+         "quotes":"Orang bijak mengatakan jangan takut dengan perubahan, tapi mengapa aku takut ketika perasaanmu sudah berubah padaku.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":1,
+         "name_category":"Untuk Pacar",
+         "author":"Untuk Pacar",
+         "quotes":"Udah punya pacar masih juga Cari perhatian orang lain, gak bahagia ya lu",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":2,
+         "name_category":"Untuk Pacar",
+         "author":"Untuk Pacar",
+         "quotes":"Cakep apa nyaman, jelas nyaman karena gue cari pasangan bukan perhiasan",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":3,
+         "name_category":"Untuk Pacar",
+         "author":"Untuk Pacar",
+         "quotes":"Suka ngode di Story WA berharap dia lihat. Padahal di Skip",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":4,
+         "name_category":"Untuk Pacar",
+         "author":"Untuk Pacar",
+         "quotes":"Apapun alasannya hubungan hasil nikung Itu nggak pantes buat dibanggakan",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":5,
+         "name_category":"Untuk Pacar",
+         "author":"Untuk Pacar",
+         "quotes":"Apa perlu dikasih Kalpanax biar gak kegatelan",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":6,
+         "name_category":"Untuk Pacar",
+         "author":"Untuk Pacar",
+         "quotes":"Gak usah malu jadi jomblo, yang seharusnya malu tuh yang gonta-ganti pacar karena gak bisa setia",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":7,
+         "name_category":"Untuk Pacar",
+         "author":"Untuk Pacar",
+         "quotes":"Di zaman now screenshot lebih dipercaya daripada omongan",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":8,
+         "name_category":"Untuk Pacar",
+         "author":"Untuk Pacar",
+         "quotes":"Cie yang chatnya kalah penting sama game Mobile Legend",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":9,
+         "name_category":"Untuk Pacar",
+         "author":"Untuk Pacar",
+         "quotes":"Karena kesetiaan Cuma buat orang-orang yang berkelas",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":10,
+         "name_category":"Untuk Pacar",
+         "author":"Untuk Pacar",
+         "quotes":"Tak sepantasnya cewek itu yang berusaha",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":11,
+         "name_category":"Untuk Pacar",
+         "author":"Untuk Pacar",
+         "quotes":"Online tapi gak di-read sakit gak ada Blood",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":12,
+         "name_category":"Untuk Pacar",
+         "author":"Untuk Pacar",
+         "quotes":"Kok mau sih dipanggil sayang tanpa ada ikatan",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":13,
+         "name_category":"Untuk Pacar",
+         "author":"Untuk Pacar",
+         "quotes":"Perempuan baik itu, perempuan yang tidak merusak kebahagiaan perempuan lain",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":14,
+         "name_category":"Untuk Pacar",
+         "author":"Untuk Pacar",
+         "quotes":"Gue sadar gue Cuma pilihan ketika dia bosan",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":15,
+         "name_category":"Untuk Pacar",
+         "author":"Untuk Pacar",
+         "quotes":"Enaknya jadi mantan lo, udah nyakitin tapi tetap lo sayang",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":16,
+         "name_category":"Untuk Pacar",
+         "author":"Untuk Pacar",
+         "quotes":"Ngomongnya aja manis tapi nggak pernah di lakuin",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":17,
+         "name_category":"Untuk Pacar",
+         "author":"Untuk Pacar",
+         "quotes":"Muka lu perfect, tapi hati lu brengsek",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":18,
+         "name_category":"Untuk Pacar",
+         "author":"Untuk Pacar",
+         "quotes":"Cewek itu kudratnya untuk dikejar bukan mengejar",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":19,
+         "name_category":"Untuk Pacar",
+         "author":"Untuk Pacar",
+         "quotes":"Bersikaplah seperti wanita terhormat",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":20,
+         "name_category":"Untuk Pacar",
+         "author":"Untuk Pacar",
+         "quotes":"Cantik tapi tukang drama, ada banyak",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":21,
+         "name_category":"Untuk Pacar",
+         "author":"Untuk Pacar",
+         "quotes":"Ninggalin yang tulus demi yang mulus",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":22,
+         "name_category":"Untuk Pacar",
+         "author":"Untuk Pacar",
+         "quotes":"Ternyata lebih gampang update status daripada kasih kabar",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":23,
+         "name_category":"Untuk Pacar",
+         "author":"Untuk Pacar",
+         "quotes":"Cewek gatel cowoknya juga, jadi deh pasangan ulat bulu",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":24,
+         "name_category":"Untuk Pacar",
+         "author":"Untuk Pacar",
+         "quotes":"Kamu datang membawa tawa kamu singgah membawa cinta kamu pergi meninggalkan kecewa",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":25,
+         "name_category":"Untuk Pacar",
+         "author":"Untuk Pacar",
+         "quotes":"Udah diperjuangin mati-matian, tapi yang diperjuangin kayak gini",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":26,
+         "name_category":"Untuk Pacar",
+         "author":"Untuk Pacar",
+         "quotes":"Karena Sendiri jauh lebih tenang",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":27,
+         "name_category":"Untuk Pacar",
+         "author":"Untuk Pacar",
+         "quotes":"Sakit tapi tak berdarah",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":28,
+         "name_category":"Untuk Pacar",
+         "author":"Untuk Pacar",
+         "quotes":"Karena tukang Tikung bakal ditikung juga pada waktunya",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":29,
+         "name_category":"Untuk Pacar",
+         "author":"Untuk Pacar",
+         "quotes":"Jangan pamer terus dong, Gue tahu kok kalian pacaran",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":30,
+         "name_category":"Untuk Pacar",
+         "author":"Untuk Pacar",
+         "quotes":"Sayang sih sayang, tapi kalau diajak balikan ragu aku juga sih",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":31,
+         "name_category":"Untuk Pacar",
+         "author":"Untuk Pacar",
+         "quotes":"Mending jomblo daripada harus punya pacar tapi dari hasil tikungan",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":32,
+         "name_category":"Untuk Pacar",
+         "author":"Untuk Pacar",
+         "quotes":"Lu kanibal yah? Kok makan temen sendiri",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":33,
+         "name_category":"Untuk Pacar",
+         "author":"Untuk Pacar",
+         "quotes":"Jago banget nikungnya, lo belajar balap di mana sob",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":34,
+         "name_category":"Untuk Pacar",
+         "author":"Untuk Pacar",
+         "quotes":"Satu persatu teman yang fake semakin kelihatan",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":35,
+         "name_category":"Untuk Pacar",
+         "author":"Untuk Pacar",
+         "quotes":"Sahabat sejati itu tidak akan pernah meninggalkanmu apalagi merebut milikmu",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":36,
+         "name_category":"Untuk Pacar",
+         "author":"Untuk Pacar",
+         "quotes":"Pas gak ketemu aja bilangnya kangen-kangen, pas ketemu eh asik main HP sendiri",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":37,
+         "name_category":"Untuk Pacar",
+         "author":"Untuk Pacar",
+         "quotes":"Siapa hayo yang pas chatingan asik banget, tapi kalo ketemu eh malah diem-dieman",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":38,
+         "name_category":"Untuk Pacar",
+         "author":"Untuk Pacar",
+         "quotes":"Kamu asik banget sih orangnya, cuman kok ke semua orang ya?!",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":39,
+         "name_category":"Untuk Pacar",
+         "author":"Untuk Pacar",
+         "quotes":"Kalo di suruh milih pasangan cakep apa nyaman, gua pilihnya nyaman. Karena gua cari pasangan bukan perhiasan",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":40,
+         "name_category":"Untuk Pacar",
+         "author":"Untuk Pacar",
+         "quotes":"Kadang gua belain bertingkah bodoh, ngeblock status WA semua orang kecuali dirimu. Agar kamu bisa lihat dan ngerti",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":41,
+         "name_category":"Untuk Pacar",
+         "author":"Untuk Pacar",
+         "quotes":"Apa elu yakin bisa tenang dengan nikung pasar orang sampe putus?",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":42,
+         "name_category":"Untuk Pacar",
+         "author":"Untuk Pacar",
+         "quotes":"Apa perlu dikasih Kalpanax biar gak kegatelan",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":43,
+         "name_category":"Untuk Pacar",
+         "author":"Untuk Pacar",
+         "quotes":"Di zaman now screenshot lebih dipercaya daripada omongan",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":44,
+         "name_category":"Untuk Pacar",
+         "author":"Untuk Pacar",
+         "quotes":"Kalo lagi jaga tower, jangan chat dulu. Gua lagi gak sayang. #maingame",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":45,
+         "name_category":"Untuk Pacar",
+         "author":"Untuk Pacar",
+         "quotes":"Karena kesetiaan Cuma buat orang-orang yang berkelas",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":46,
+         "name_category":"Untuk Pacar",
+         "author":"Untuk Pacar",
+         "quotes":"Tak sepantasnya cewek itu yang berusaha. Cewek itu pantasnya diusahain. Tapi kok dia gak sadar sadar ya kalo diperjuangin",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":47,
+         "name_category":"Untuk Pacar",
+         "author":"Untuk Pacar",
+         "quotes":"Online tapi gak di bales itu kayak kita nyapa orang, dia nengok, tapi nggk kenal kita. Kyak, loh siapa ya? ahh gak pentinga ahh..:",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":48,
+         "name_category":"Untuk Pacar",
+         "author":"Untuk Pacar",
+         "quotes":"Kok mau sih dipanggil sayang tanpa ada ikatan",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":1,
+         "name_category":"Untuk Mantan",
+         "author":"Untuk Mantan",
+         "quotes":"Tidak ada wanita yang baik-baik saja, ketika melihat pasangannya berkomunikasi dengan mantannya",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":2,
+         "name_category":"Untuk Mantan",
+         "author":"Untuk Mantan",
+         "quotes":"Mikirin mantan? Sorry aku terlalu sibuk bahagia dengan yang baru",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":3,
+         "name_category":"Untuk Mantan",
+         "author":"Untuk Mantan",
+         "quotes":"Jangan bilang aku kangen, dah lah.. aku udah muak",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":4,
+         "name_category":"Untuk Mantan",
+         "author":"Untuk Mantan",
+         "quotes":"Malesnya itu ketika udah move on, eh kamu senyum sambil sebut namaku",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":5,
+         "name_category":"Untuk Mantan",
+         "author":"Untuk Mantan",
+         "quotes":"Kalo cuma singgah dan buat baper lagi, mending pergi aja deh",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":6,
+         "name_category":"Untuk Mantan",
+         "author":"Untuk Mantan",
+         "quotes":"Pengen punya pengganti baru, tapi kok masih sayang ya",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":7,
+         "name_category":"Untuk Mantan",
+         "author":"Untuk Mantan",
+         "quotes":"Gapapa single tapi Happy, daripada taken tapi makan hati",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":8,
+         "name_category":"Untuk Mantan",
+         "author":"Untuk Mantan",
+         "quotes":"Gua yang nembak, elu yang mutusin. Alesannya mau fokus belajar.. entut!",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":9,
+         "name_category":"Untuk Mantan",
+         "author":"Untuk Mantan",
+         "quotes":"Percayalah Mantan akan kangen pada saatnya",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":10,
+         "name_category":"Untuk Mantan",
+         "author":"Untuk Mantan",
+         "quotes":"Ikhlasin aja lah daripada berjuang sendiri",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":11,
+         "name_category":"Untuk Mantan",
+         "author":"Untuk Mantan",
+         "quotes":"Susah ya move on, kalo kamu makin cantik",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":12,
+         "name_category":"Untuk Mantan",
+         "author":"Untuk Mantan",
+         "quotes":"Kalau ingat dulu, kok bisa ya gue pacaran sama lo",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":13,
+         "name_category":"Untuk Mantan",
+         "author":"Untuk Mantan",
+         "quotes":"Selingkuh itu gampang, Kenapa nggak nyoba sesuatu yang lebih menantang kayak Setia",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":14,
+         "name_category":"Untuk Mantan",
+         "author":"Untuk Mantan",
+         "quotes":"Lu setia dan baik cuma pas PDKT aja sih. Kenapa gak baik terus kayak sampe kita punya anak, misal",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":15,
+         "name_category":"Untuk Mantan",
+         "author":"Untuk Mantan",
+         "quotes":"Jika datang hanya untuk singgah dan menimbulkan baper, mendingan kamu pergi aja sana.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":16,
+         "name_category":"Untuk Mantan",
+         "author":"Untuk Mantan",
+         "quotes":"Selingkuh atau balikan sama mantan itu sangat mudahTapi kenapa kamu yang mencoba kesetiaan, sepertinya itu lebih menantang.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":17,
+         "name_category":"Untuk Mantan",
+         "author":"Untuk Mantan",
+         "quotes":"Tunjukkan padaku apa yang harus kulakukan, di saat aku sudah banyak berjuang tapi kau hanya mengacuhkan.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":18,
+         "name_category":"Untuk Mantan",
+         "author":"Untuk Mantan",
+         "quotes":"Jika kau bisa mencintai seseorang lebih dari yang pantas ia terima, kau juga bisa menyakitinya lebih dari yang seharusnya ia erima.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":19,
+         "name_category":"Untuk Mantan",
+         "author":"Untuk Mantan",
+         "quotes":"Andai dulu Gue gak tahu kalau ada manusia Kayak lu, pasti sampai saat ini gue gak bakal merasakan hal yang sesakit ini.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":20,
+         "name_category":"Untuk Mantan",
+         "author":"Untuk Mantan",
+         "quotes":"Kau tidak akan pernah bisa berteman dengan seseorang yang pernah kau cintai.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":21,
+         "name_category":"Untuk Mantan",
+         "author":"Untuk Mantan",
+         "quotes":"Aku meninggalkanmu karena kau tidak pernah memintaku untuk tetap berada di sana.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":22,
+         "name_category":"Untuk Mantan",
+         "author":"Untuk Mantan",
+         "quotes":"Hal ketujuh yang membuatku benci padamu, kau membuatku mencintaimu. (Miley Cyrus,  Things)",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":23,
+         "name_category":"Untuk Mantan",
+         "author":"Untuk Mantan",
+         "quotes":"Lebih baik di awal cuek, tapi akhirnya perhatian, daripada awalnya perhatian, tapi akhirnya cuek.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":24,
+         "name_category":"Untuk Mantan",
+         "author":"Untuk Mantan",
+         "quotes":"Buat apa memiliki pacar namun dia bisanya hanya menyakiti, mendingan jomblo saja namun banyak yang menyukai.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":1,
+         "name_category":"Untuk Teman",
+         "author":"Untuk Teman",
+         "quotes":"Sakit itu jika punya temen yang baik di depan, eh dibelakang ngomongin kita",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":2,
+         "name_category":"Untuk Teman",
+         "author":"Untuk Teman",
+         "quotes":"Jangan ada rasa yang lebih diantara kita. Kalo ada, mungkin temen baik, kalo lebih lagi, temen baik lvl 2",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":3,
+         "name_category":"Untuk Teman",
+         "author":"Untuk Teman",
+         "quotes":"Katanya temen, kok nusuk ya",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":4,
+         "name_category":"Untuk Teman",
+         "author":"Untuk Teman",
+         "quotes":"Temenan itu sama sama. Gua jomblo lu juga harus jomblo, gua pengangguran, yaa lu juga harusnya ngerti gitu kek. Cariin kerja gitu",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":5,
+         "name_category":"Untuk Teman",
+         "author":"Untuk Teman",
+         "quotes":"Kalo lagi gak butuh aja kayak gak kenal. Kalo lagi butuh, deket-deket sok akrab. bgst emang",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":6,
+         "name_category":"Untuk Teman",
+         "author":"Untuk Teman",
+         "quotes":"Anda sopan, saya curiga",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":7,
+         "name_category":"Untuk Teman",
+         "author":"Untuk Teman",
+         "quotes":"Hati-hati kalo ada temen tiba-tiba baik. Bilang aja lagi gua pakek duit gua",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":8,
+         "name_category":"Untuk Teman",
+         "author":"Untuk Teman",
+         "quotes":"Gua yang ngasih hutang, gua juga yang nagih, eh gua juga yang gak enakan, endingnya gua juga yang minta maaf",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":9,
+         "name_category":"Untuk Teman",
+         "author":"Untuk Teman",
+         "quotes":"Ada gak ada duit, yang penting kumpul. Kalo lo lagi ada duit, yaa pake duit lu dululah.. haha",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":10,
+         "name_category":"Untuk Teman",
+         "author":"Untuk Teman",
+         "quotes":"Lu nggk akan merasakan kekecewaan yang lebih dari seseorang yang lu percaya",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":11,
+         "name_category":"Untuk Teman",
+         "author":"Untuk Teman",
+         "quotes":"Temen tuh tiba-tiba baik pas lagi ujian sekolah. Nggk tau kenapa",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":12,
+         "name_category":"Untuk Teman",
+         "author":"Untuk Teman",
+         "quotes":"Kalo ada temen cowok lu tiba-tiba pinjem pulpen, tanya jam, tanya guru, itu cuma modus",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":13,
+         "name_category":"Untuk Teman",
+         "author":"Untuk Teman",
+         "quotes":"Capek juga sebenernya, pura-pura bahagia",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":14,
+         "name_category":"Untuk Teman",
+         "author":"Untuk Teman",
+         "quotes":"Kelihatannya Aku cinta deh sama kamu",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":15,
+         "name_category":"Untuk Teman",
+         "author":"Untuk Teman",
+         "quotes":"Wanita cantik bukan dari penampilannya, tapi dari hatinya",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":16,
+         "name_category":"Untuk Teman",
+         "author":"Untuk Teman",
+         "quotes":"Jomblo bukan berarti gak laku, tapi Jomblo itu prinsip sob",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":17,
+         "name_category":"Untuk Teman",
+         "author":"Untuk Teman",
+         "quotes":"Menunggu memang membosankan, namun aku tahu cara menghilangkannya demi kamu yang paling kucintai",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":18,
+         "name_category":"Untuk Teman",
+         "author":"Untuk Teman",
+         "quotes":"Aku ada untukmu bukan berarti aku mengekangmu, dengan egoku karena ku tak ingin kau tersakiti Seperti Dulu aku pernah terluka",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":19,
+         "name_category":"Untuk Teman",
+         "author":"Untuk Teman",
+         "quotes":"Jika tawa mampu berubah tangis, lalu Mengapa tangis tak mampu untuk kau tepis",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":20,
+         "name_category":"Untuk Teman",
+         "author":"Untuk Teman",
+         "quotes":"Apakah yang tak pernah mampu aku genggam semakin erat semakin terlepas",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":21,
+         "name_category":"Untuk Teman",
+         "author":"Untuk Teman",
+         "quotes":"Penampilan bukan segalanya, tapi bagaimana kita bersyukur dan meresponi sesuatu yang terjadi",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":22,
+         "name_category":"Untuk Teman",
+         "author":"Untuk Teman",
+         "quotes":"Ada yang aslinya peka, tapi pura-pura nggak peka",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":23,
+         "name_category":"Untuk Teman",
+         "author":"Untuk Teman",
+         "quotes":"Lakukan lah segalanya tapi jangan pernah berpikir untuk pergi",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":24,
+         "name_category":"Untuk Teman",
+         "author":"Untuk Teman",
+         "quotes":"Bahagia Entahlah? Apakah aku bisa bahagia tanpa ada lagi hadirmu di hidupku saat ini",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":25,
+         "name_category":"Untuk Teman",
+         "author":"Untuk Teman",
+         "quotes":"Berdiri disini menantimu bukan masalah bagiku meski lamanya waktu tak mengubah kepastianmu",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":26,
+         "name_category":"Untuk Teman",
+         "author":"Untuk Teman",
+         "quotes":"Tidak ada alasanmu untuk takut dan menyerah berjuang lah untukmu dan untukku dan menunggumu aku menunggu Senyummu aku menunggu itu dibalik doa-doaku",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":27,
+         "name_category":"Untuk Teman",
+         "author":"Untuk Teman",
+         "quotes":"Aku rindu kamu rindu, segala tentangmu dan rindu Tentang Kita",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":28,
+         "name_category":"Untuk Teman",
+         "author":"Untuk Teman",
+         "quotes":"Semua orang bisa bilang cinta, tapi ngga sama orang bisa setia",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":29,
+         "name_category":"Untuk Teman",
+         "author":"Untuk Teman",
+         "quotes":"Sekarang ataupun nanti aku akan tetap mencintaimu sepenuh hati",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":30,
+         "name_category":"Untuk Teman",
+         "author":"Untuk Teman",
+         "quotes":"Aku pengen jadi orang yang paling kamu sayang setelah keluargamu",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":31,
+         "name_category":"Untuk Teman",
+         "author":"Untuk Teman",
+         "quotes":"Aku tahan rasa rinduku ke kamu",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":32,
+         "name_category":"Untuk Teman",
+         "author":"Untuk Teman",
+         "quotes":"Hanya kepercayaan dan cinta yang mampu membuatku bertahan, ketika hubungan kita digoda oleh jarak sebagai batasan",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":33,
+         "name_category":"Untuk Teman",
+         "author":"Untuk Teman",
+         "quotes":"Masih disini dengan nama yang sama dengan perasaan yang sama",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":34,
+         "name_category":"Untuk Teman",
+         "author":"Untuk Teman",
+         "quotes":"Untuk apa punya pacar, kalau bisanya nyakitin. Mending jomblo tapi banyak yang suka",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":35,
+         "name_category":"Untuk Teman",
+         "author":"Untuk Teman",
+         "quotes":"Kalau kamu Beneran Serius, kenapa Kamu ninggalin pas aku lagi sayang sayangnya",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":36,
+         "name_category":"Untuk Teman",
+         "author":"Untuk Teman",
+         "quotes":"Pengennya sih lebih dari sekedar teman",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":37,
+         "name_category":"Untuk Teman",
+         "author":"Untuk Teman",
+         "quotes":"Jika kau memiliki yang tidak dimiliki oleh orang lain, maka jagalah baik-baik jangan sampai kau kehilangan dia",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":38,
+         "name_category":"Untuk Teman",
+         "author":"Untuk Teman",
+         "quotes":"Belajar menghargai apa yang kamu miliki sekarang, sebelum kamu kehilangan sesuatu yang berharga",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":1,
+         "name_category":"Untuk Orang Sombong",
+         "author":"Untuk Orang Sombong",
+         "quotes":"Jangan bangga punya wajah ganteng ayaucantik. Kalo itu cuma efek kamera",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":2,
+         "name_category":"Untuk Orang Sombong",
+         "author":"Untuk Orang Sombong",
+         "quotes":"Punya duit aja sombong. Nih gua gak punya duit tapi nggk sombong, sih",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":3,
+         "name_category":"Untuk Orang Sombong",
+         "author":"Untuk Orang Sombong",
+         "quotes":"Buat apa punya duit tapi jelek",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":4,
+         "name_category":"Untuk Orang Sombong",
+         "author":"Untuk Orang Sombong",
+         "quotes":"Jangan mengeluh karena nggk punya duit. Di luar sana banyak orang yang nggk punya duit juga tapi ngenes",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":5,
+         "name_category":"Untuk Orang Sombong",
+         "author":"Untuk Orang Sombong",
+         "quotes":"Saya selalu mempercayai seseorang sampai seseorang itu sendiri yang membuktikan bahwa dia tidak bisa dipercaya",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":6,
+         "name_category":"Untuk Orang Sombong",
+         "author":"Untuk Orang Sombong",
+         "quotes":"Mulut dijaga. Jangan sampai kalah sama pantat deh.. Pantat aja kalau mau kentut mikir dulu ada yang dengerinn apa engga, Masa mulut mau ngomong ga dipikir dulu",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":7,
+         "name_category":"Untuk Orang Sombong",
+         "author":"Untuk Orang Sombong",
+         "quotes":"Kesombongan akan membuat hidup dan diri lo semakin hina",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":8,
+         "name_category":"Untuk Orang Sombong",
+         "author":"Untuk Orang Sombong",
+         "quotes":"Kalo omongan lo gede tapi bingung mau dikemanaain. Tapo aja di olx, nanti gua beli",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":9,
+         "name_category":"Untuk Orang Sombong",
+         "author":"Untuk Orang Sombong",
+         "quotes":"Itu bibir apa pantat ayam sih, hoby banget ngomongin orang",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":10,
+         "name_category":"Untuk Orang Sombong",
+         "author":"Untuk Orang Sombong",
+         "quotes":"Jangan sombong dengan apa yang kita miliki, tuhan bisa saja mengambil sewaktu-waktu apa yang kita punya",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":11,
+         "name_category":"Untuk Orang Sombong",
+         "author":"Untuk Orang Sombong",
+         "quotes":"Awalnya berpikir lulus SMA menyenangkan sampai akhirnya sadar pas terbaik dalam hidup justru ketika SMA",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":12,
+         "name_category":"Untuk Orang Sombong",
+         "author":"Untuk Orang Sombong",
+         "quotes":"Seorang yang sombong berpikir bahwa ia mempunyai segalanya, namun orang yang bertaqwa tahu bahwa semua yaitu milik-Nya.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":13,
+         "name_category":"Untuk Orang Sombong",
+         "author":"Untuk Orang Sombong",
+         "quotes":"Jangan arogan pada sesama, kesombongan hanya akan menciptakan hidup menjadi terpuruk secara pelan-pelan.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":14,
+         "name_category":"Untuk Orang Sombong",
+         "author":"Untuk Orang Sombong",
+         "quotes":"Bila ketemu orang sombong, katakan Saya hanya memberikan apa yang anda sudah tahu dan beliau akan senang luar biasa Ponijan Liaw",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":15,
+         "name_category":"Untuk Orang Sombong",
+         "author":"Untuk Orang Sombong",
+         "quotes":"Di puji jauh lebih ancaman dibanding di caci, lantaran kebanggaan akan mengakibatkan kemunafikan juga mengakibatkan rasa arogan dan sombong.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":16,
+         "name_category":"Untuk Orang Sombong",
+         "author":"Untuk Orang Sombong",
+         "quotes":"Jangan sombong, menganggap diri sendiri sudah matangKarena kalau seseorang sudah matang, berarti sbntar lagi beliau membusuk.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":17,
+         "name_category":"Untuk Orang Sombong",
+         "author":"Untuk Orang Sombong",
+         "quotes":"Kesombongan merupakan sifat insan yang merasa dirinya lebih baik  Kata Kata Bijak untuk Orang Sombong dan Angkuh",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":18,
+         "name_category":"Untuk Orang Sombong",
+         "author":"Untuk Orang Sombong",
+         "quotes":"Jika ada seorang sobat menyampaikan kau PINTAR, jangan sombongBelum tentu sobat tersebut menyampaikan yang sebenarnya.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":19,
+         "name_category":"Untuk Orang Sombong",
+         "author":"Untuk Orang Sombong",
+         "quotes":"Orang sombong bergotong-royong pengecut lantaran ia tak berani bergaul dengan orang yang lebih hebat dengan dirinya.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":20,
+         "name_category":"Untuk Orang Sombong",
+         "author":"Untuk Orang Sombong",
+         "quotes":"Orang yang sombong tidak bertuhan; orang yang iri tidak bertetangga; orang yang murka tidak mempunyai dirinya sendiri Joseph Hall",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":21,
+         "name_category":"Untuk Orang Sombong",
+         "author":"Untuk Orang Sombong",
+         "quotes":"Jangan sombong ya alasannya yaitu yang menunjukkan keberhasilan yaitu Allah kiprah insan hanya berproses yang terbaik.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":22,
+         "name_category":"Untuk Orang Sombong",
+         "author":"Untuk Orang Sombong",
+         "quotes":"Manusia Sombong itu biasanya akan tergoda sendiri oleh KesombongannyaWaktu nya akan ditentukan oleh Tuhan.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":23,
+         "name_category":"Untuk Orang Sombong",
+         "author":"Untuk Orang Sombong",
+         "quotes":"Orang yang sombong tak akan pernah tenang, sering jengkel dan gampang marah-marah lantaran ingin selalu diperlakukan spesial.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":24,
+         "name_category":"Untuk Orang Sombong",
+         "author":"Untuk Orang Sombong",
+         "quotes":"Salah satu kelemahan Orang Pintar yaitu SOMBONG & Banyak PERHITUNGAN, dan itulah yang menciptakan banyak orang Pintar Hidupnya miskin.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":25,
+         "name_category":"Untuk Orang Sombong",
+         "author":"Untuk Orang Sombong",
+         "quotes":"Lihatlah ke atas sebagai motivasi bukan untuk jadi sombong, dan melihat ke bawah supaya lebih bersyukur bukan untuk menjadi rendah diri.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":26,
+         "name_category":"Untuk Orang Sombong",
+         "author":"Untuk Orang Sombong",
+         "quotes":"Orang sombong biasa nya suka menyampaikan yang berlebihan dan tak bijak, padahal itu semua tidak ada pada nya.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":27,
+         "name_category":"Untuk Orang Sombong",
+         "author":"Untuk Orang Sombong",
+         "quotes":"Bergaul dengan orang bijak lebih baik daripada bergaul dengan orang yang selalu menyenangkan diri dan sombong.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":28,
+         "name_category":"Untuk Orang Sombong",
+         "author":"Untuk Orang Sombong",
+         "quotes":"Jangan sombong dengan apa yang kau miliki lantaran tak ada jaminan itu akan bertahan lama.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":29,
+         "name_category":"Untuk Orang Sombong",
+         "author":"Untuk Orang Sombong",
+         "quotes":"Doaku malam ini : Tuhan, jauhkan saya dari perilaku sombong, lantaran saya tak akan bisa berbuat apapun kecuali atas kehendakMu.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":30,
+         "name_category":"Untuk Orang Sombong",
+         "author":"Untuk Orang Sombong",
+         "quotes":"Sikap Sombong yang memandang rendah oranglain dan banyak perhitungan menjadi takut ACTION yaitu JalanPintas Menuju KEGAGALAN.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":31,
+         "name_category":"Untuk Orang Sombong",
+         "author":"Untuk Orang Sombong",
+         "quotes":"Orang sombong biasanya suka menyampaikan hal berlebihan yang bergotong-royong tidak ada padanya.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":32,
+         "name_category":"Untuk Orang Sombong",
+         "author":"Untuk Orang Sombong",
+         "quotes":"Kesombongan yaitu musuh dari kebaikan dan kebenaranOrang sombong tak sanggup melihat kebenaran dan memahami kebaikan",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":33,
+         "name_category":"Untuk Orang Sombong",
+         "author":"Untuk Orang Sombong",
+         "quotes":"Berbagi kesuksesan diri sendiri bukan berarti sombong, tapi supaya memacu menginspirasi orang lain.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":34,
+         "name_category":"Untuk Orang Sombong",
+         "author":"Untuk Orang Sombong",
+         "quotes":"Percaya diri dan sombong adal dua hal yang berbedaOrang sombong percaya dengan dirinya sendiri, tapi tidak mendapatkan pendapat orang lain.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":35,
+         "name_category":"Untuk Orang Sombong",
+         "author":"Untuk Orang Sombong",
+         "quotes":"Orang sombong biasa nya suka menyampaikan yang berlebihan dan tak bijak, padahal itu semua tidak ada padanya.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":36,
+         "name_category":"Untuk Orang Sombong",
+         "author":"Untuk Orang Sombong",
+         "quotes":"Berbagi kesuksesan diri sendiri bukan berarti sombong, tapi supaya memacu dan menginspirasi orang lain.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":37,
+         "name_category":"Untuk Orang Sombong",
+         "author":"Untuk Orang Sombong",
+         "quotes":"Kesombongan yaitu musuh dari kebaikan dan kebenaranOrang sombong tak sanggup melihat kebenaran dan memahami kebaikan.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":38,
+         "name_category":"Untuk Orang Sombong",
+         "author":"Untuk Orang Sombong",
+         "quotes":"Terlalu sombong untuk berpikir km tidak membutuhkan teman,terlalu naif untuk berpikir semua orang yaitu temanmu.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":39,
+         "name_category":"Untuk Orang Sombong",
+         "author":"Untuk Orang Sombong",
+         "quotes":"Orang sombong ditandai dengan tatapan mata merendahkan dan ucapan yang meninggikan diri sendiri",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":40,
+         "name_category":"Untuk Orang Sombong",
+         "author":"Untuk Orang Sombong",
+         "quotes":"Orang lapang dada tak akan berkecil hati lantaran gagal, tak akan sombong lantaran sukses dan tidak punya rencana jahat.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":41,
+         "name_category":"Untuk Orang Sombong",
+         "author":"Untuk Orang Sombong",
+         "quotes":"Orang sombong bergotong-royong pengecut lantaran ia tak berani bergaul denagn orang yang lebih hebat dengan dirinya",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":42,
+         "name_category":"Untuk Orang Sombong",
+         "author":"Untuk Orang Sombong",
+         "quotes":"Kata-kata penuh sombong bisa menciptakan diri hancur kalau ego tidak segera dilebur.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":43,
+         "name_category":"Untuk Orang Sombong",
+         "author":"Untuk Orang Sombong",
+         "quotes":"Gak Ada Gunanya Sombong Kalau MasihDi Beliin Orang Tua.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":44,
+         "name_category":"Untuk Orang Sombong",
+         "author":"Untuk Orang Sombong",
+         "quotes":"Doaku pagi ini jadikan saya kecil dalam pandanganku sendiri, supaya saya tidak sombong terhadap sesamaku.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":45,
+         "name_category":"Untuk Orang Sombong",
+         "author":"Untuk Orang Sombong",
+         "quotes":"Kere dan Keren itu cuma beda  hurufSo.Be humble (rendah hati dan jangan sombong).",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":46,
+         "name_category":"Untuk Orang Sombong",
+         "author":"Untuk Orang Sombong",
+         "quotes":"Hati kita juga cerdas-kecerdasan tanpa hati bisa menciptakan kita sombongZaraZettiraZR",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":47,
+         "name_category":"Untuk Orang Sombong",
+         "author":"Untuk Orang Sombong",
+         "quotes":"Waktu banjir, ikan makan semut dan waktu banjir surut, semut yang makan ikan (semua orang ada giliran atau waktunyaJangan sombong.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":48,
+         "name_category":"Untuk Orang Sombong",
+         "author":"Untuk Orang Sombong",
+         "quotes":"Bangga tapi jangan sombong Kerja keras tapi jangan terpaksa Bersyukur tapi jangan cepat berpuas diri Wishnutama",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":49,
+         "name_category":"Untuk Orang Sombong",
+         "author":"Untuk Orang Sombong",
+         "quotes":"Orang sombong yaitu orang yang belum mengenal dunia secara lebih luas.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":50,
+         "name_category":"Untuk Orang Sombong",
+         "author":"Untuk Orang Sombong",
+         "quotes":"Orang sombong merasa kebenaran hanya miliknya sehingga sulit mendapatkan pendapat yang lainaagym",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":51,
+         "name_category":"Untuk Orang Sombong",
+         "author":"Untuk Orang Sombong",
+         "quotes":"Orang yang sombong tak akan pernah tenang, sering jengkel dan gampang marah-marah lantaran ingin selalu diperlakukan spesial aagym",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":52,
+         "name_category":"Untuk Orang Sombong",
+         "author":"Untuk Orang Sombong",
+         "quotes":"Manusia Sombong itu biasanya akan tergoda sendiri oleh Kesombongannya Waktu nya akan ditentukan oleh Tuhan fahira idris",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":53,
+         "name_category":"Untuk Orang Sombong",
+         "author":"Untuk Orang Sombong",
+         "quotes":"Jangan terlalu sombong dengan harta yang kau miliki sekarang, lantaran itu semua hanya titipan sementara wuwulans",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":54,
+         "name_category":"Untuk Orang Sombong",
+         "author":"Untuk Orang Sombong",
+         "quotes":"Orang sombong hasilnya akan hidup sendiri di lorong yang sunyi dan sepi Ponijan Liaw",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":55,
+         "name_category":"Untuk Orang Sombong",
+         "author":"Untuk Orang Sombong",
+         "quotes":"Salah satu PENYEBAB banyaknya orang yang SIRIK itu karna banyaknya orang yang SOMBONG.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":56,
+         "name_category":"Untuk Orang Sombong",
+         "author":"Untuk Orang Sombong",
+         "quotes":"Kelebihan dan keahlianmu tidak ada artinya kalau sifatmu sombong ibarat itu.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":57,
+         "name_category":"Untuk Orang Sombong",
+         "author":"Untuk Orang Sombong",
+         "quotes":"Terlalu sombong untuk berpikir kau tidak membutuhkan teman, terlalu naif untuk berpikir semua orang yaitu temanmu.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":58,
+         "name_category":"Untuk Orang Sombong",
+         "author":"Untuk Orang Sombong",
+         "quotes":"Tetap rendah hati, jangan sombong atau gembira diriHindari ghibah dan dialog yang tidak bermanfaat, ingat bahwa Allah selalu mengawasiquote_ash",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":59,
+         "name_category":"Untuk Orang Sombong",
+         "author":"Untuk Orang Sombong",
+         "quotes":"Jika kau merasa sudah menjadi lebih baik, maka tidak dibenarkan berbangga diri, sombong, dan gampang menjudge yang belum baikStay humble.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":60,
+         "name_category":"Untuk Orang Sombong",
+         "author":"Untuk Orang Sombong",
+         "quotes":"Si sombong yang merasa rendah hatiSi tukang pamer yang merasa sedang menginspirasi.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":61,
+         "name_category":"Untuk Orang Sombong",
+         "author":"Untuk Orang Sombong",
+         "quotes":"Bila kita belum bisa lapang dada dalam ketaatan kepada Allah maka sebaiknya kita tidak sombong dan merasa diri lebih baik daripada orang lain.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":62,
+         "name_category":"Untuk Orang Sombong",
+         "author":"Untuk Orang Sombong",
+         "quotes":"Penyakit kita, ada sedikit harta atau ilmu, sudah sibuk bersombong-sombong(Andrea Hirata) QUOTE LASKAR PELANGI",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":63,
+         "name_category":"Untuk Orang Sombong",
+         "author":"Untuk Orang Sombong",
+         "quotes":"Sungguh, Allah tidak menyukai orang-orang yang sombong lagi membanggakan diri(QSLuqman:)",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":64,
+         "name_category":"Untuk Orang Sombong",
+         "author":"Untuk Orang Sombong",
+         "quotes":"Sombong yaitu menolak kebenaran dan meremehkan orang lain(HRMuslim).",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":65,
+         "name_category":"Untuk Orang Sombong",
+         "author":"Untuk Orang Sombong",
+         "quotes":"Orang yang sombong yaitu apabila ditegur beliau marah, sedangkan kalau menegur orang lain, caranya keras dan kasar  Imam Ghazali",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":66,
+         "name_category":"Untuk Orang Sombong",
+         "author":"Untuk Orang Sombong",
+         "quotes":"Ya Allah, muliakanlah kami dengan sifat tawadhu’ dan jauhkanlah kami dari sifat sombong.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":67,
+         "name_category":"Untuk Orang Sombong",
+         "author":"Untuk Orang Sombong",
+         "quotes":"Maukah kau saya beritahu ttg penduduk neraka? Mereka semua yaitu orang-orang keras lagi kasar, tamak lagi rakus, dan takabbur (sombong)(HRBukhari)",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":68,
+         "name_category":"Untuk Orang Sombong",
+         "author":"Untuk Orang Sombong",
+         "quotes":"Makanlah, minumlah, berpakaianlah, dan bersedekahlah tanpa berlebihan dan perilaku sombong.(HR.Ahmad)",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":69,
+         "name_category":"Untuk Orang Sombong",
+         "author":"Untuk Orang Sombong",
+         "quotes":"Sombong bukan alasannya yaitu perasan cantik, jual mahalTapi sombong alasannya yaitu jaga adat dan maruahItulah perempuan.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":70,
+         "name_category":"Untuk Orang Sombong",
+         "author":"Untuk Orang Sombong",
+         "quotes":"Siapa yang menjamin keabadian? Apa yang kau punya tak selamanyaJangan sombong, jangan ",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":71,
+         "name_category":"Untuk Orang Sombong",
+         "author":"Untuk Orang Sombong",
+         "quotes":"Sadarilah semua punya kelebihan dan kekurangan, supaya bisa bersyukur dan tidak menjadi sombong dengan apa yang dimilikinya",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":72,
+         "name_category":"Untuk Orang Sombong",
+         "author":"Untuk Orang Sombong",
+         "quotes":"Kerendahhatian terbaca dalam sikapTerasa lewat ketulusanSebaliknya, kata-kata tidak cukup lebar untuk bisa membungkus rapi sifat angkuh.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":73,
+         "name_category":"Untuk Orang Sombong",
+         "author":"Untuk Orang Sombong",
+         "quotes":"Cinta itu tak mengenal derajatTapi insan yang terlalu arogan dan congkak dengan apa yang di milikinya.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":74,
+         "name_category":"Untuk Orang Sombong",
+         "author":"Untuk Orang Sombong",
+         "quotes":"Jangan arogan di hadapan orang yang rendah hati, dan jangan merendah di hadapan orang yang angkuh.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":75,
+         "name_category":"Untuk Orang Sombong",
+         "author":"Untuk Orang Sombong",
+         "quotes":"Kelemahan kita yaitu menyembunyikan kekuatan kitaItulah arogan namanya",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":76,
+         "name_category":"Untuk Orang Sombong",
+         "author":"Untuk Orang Sombong",
+         "quotes":"Tidak perlu menjadi orang yang arogan sombong dan membanggakan diri hanya untuk diakui orang lain, jadilah insan yang bermartabat dan punya hati.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":77,
+         "name_category":"Untuk Orang Sombong",
+         "author":"Untuk Orang Sombong",
+         "quotes":"Jangan menjadi orang yang SOMBONG ANGKUH dan SOK akan KEMAMPUAN yang TUHAN beri krn semua itu HANYA SEMENTARA.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":78,
+         "name_category":"Untuk Orang Sombong",
+         "author":"Untuk Orang Sombong",
+         "quotes":"Doa tanpa perjuangan itu bohong, perjuangan tanpa doa itu sombong.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":79,
+         "name_category":"Untuk Orang Sombong",
+         "author":"Untuk Orang Sombong",
+         "quotes":"Pribadi yang meliliki perilaku sombong yaitu langsung yang belum meraih kesuksesan dalam hidup(Kutipan buku psikologi )",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":80,
+         "name_category":"Untuk Orang Sombong",
+         "author":"Untuk Orang Sombong",
+         "quotes":"Bersabar itu tidak hanya ketika susah, tetapi juga ketika bahagia, bagaimana mengendalikan diri untuk tidak sombong",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":81,
+         "name_category":"Untuk Orang Sombong",
+         "author":"Untuk Orang Sombong",
+         "quotes":"Berusahalah untuk menjadi langsung yang baikTapi kalau kau merasa telah baik, tak ada alasan yang memperbolehkanmu untuk sombong",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":82,
+         "name_category":"Untuk Orang Sombong",
+         "author":"Untuk Orang Sombong",
+         "quotes":"Jika kesuksesan buatmu begitu sombong, kau belum suksesJika kegagalan buatmu begitu semangat, kau belum gagal",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":83,
+         "name_category":"Untuk Orang Sombong",
+         "author":"Untuk Orang Sombong",
+         "quotes":"Harta dan prestasi kita pada hasilnya akan lenyapMakara jangan sombong dan puas diri ketika berhasil atau sangat kecewa ketika gagal.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":84,
+         "name_category":"Untuk Orang Sombong",
+         "author":"Untuk Orang Sombong",
+         "quotes":"Orang lapang dada tak akan berkecil hati lantaran gagal, tak akan sombong lantaran sukses dan tidak punya rencana jahat.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":85,
+         "name_category":"Untuk Orang Sombong",
+         "author":"Untuk Orang Sombong",
+         "quotes":"Hindari sifat sombong, supaya ketika terpuruk, kita bisa berdiri dengan kerendahan hati",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":86,
+         "name_category":"Untuk Orang Sombong",
+         "author":"Untuk Orang Sombong",
+         "quotes":"Makara orang itu janganlah menjdi yang paling hebatSebab itu akan menjadikan kita orang yang sombong",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":87,
+         "name_category":"Untuk Orang Sombong",
+         "author":"Untuk Orang Sombong",
+         "quotes":"Segala sesuatu yang tiba dari Allah itu, harus kita syukuriKalau tidak? Berarti kita SOMBONG.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":88,
+         "name_category":"Untuk Orang Sombong",
+         "author":"Untuk Orang Sombong",
+         "quotes":"Janganlah sombong sesama saudara atau sahabat yang bernasib kekuranganHidup ini berputar, tiada sesiapa yang tahu.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":89,
+         "name_category":"Untuk Orang Sombong",
+         "author":"Untuk Orang Sombong",
+         "quotes":"Kita sombong hanya lantaran sedikit kelebihan yang tampak besar, dan jatuh oleh lantaran kekhilafan besar yang dianggap sepele.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":90,
+         "name_category":"Untuk Orang Sombong",
+         "author":"Untuk Orang Sombong",
+         "quotes":"Kutipan subuh pagi ini: kalau kalian sombong dan takabbur, pasti rencana kalian tak akan diberkati.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":91,
+         "name_category":"Untuk Orang Sombong",
+         "author":"Untuk Orang Sombong",
+         "quotes":"Si bijaksana bisa melihat lebih meski dibawah daripada apa yang dilihat oleh si sombong dari puncak.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":92,
+         "name_category":"Untuk Orang Sombong",
+         "author":"Untuk Orang Sombong",
+         "quotes":"Alih-alih menjadi sombong, cobalah menempatkan rasa gembira ketika itu menjadi sebuah wangsit utk pencapaian lebih",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":93,
+         "name_category":"Untuk Orang Sombong",
+         "author":"Untuk Orang Sombong",
+         "quotes":"Jangan sombongKita semua hanya mempunyai kelebihan yang berbeda, dan kekurangan yang berbeda Sahabat.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":94,
+         "name_category":"Untuk Orang Sombong",
+         "author":"Untuk Orang Sombong",
+         "quotes":"Jangan merasa besar, merasa lebih berpengalman, dan jangan sombong, kelak kau akan lebih dihargai.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":95,
+         "name_category":"Untuk Orang Sombong",
+         "author":"Untuk Orang Sombong",
+         "quotes":"Kita semua tak akan pernah kelebihan pengetahuan, bahkan selalu kekuranganIni alasan yang faktual untuk kita tidak menjadi sombong.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":96,
+         "name_category":"Untuk Orang Sombong",
+         "author":"Untuk Orang Sombong",
+         "quotes":"Mereka yang sombong menerka diri yaitu yang terbaik, dan mereka yang terbaik selalu rendah hati.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":97,
+         "name_category":"Untuk Orang Sombong",
+         "author":"Untuk Orang Sombong",
+         "quotes":"Terkadang kita harus mau mendapatkan pujian, tidak dengan sombong, tetap dengan kerendahan hati sebagai apresiasi untuk tindakan baik.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":98,
+         "name_category":"Untuk Orang Sombong",
+         "author":"Untuk Orang Sombong",
+         "quotes":"Tuhan, terima kasih atas rejeki-Mu hari ini, jadikanlah kami hamba-hamba-Mu yang rendah hati dan tidak sombong atas apa yang kami miliki.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":99,
+         "name_category":"Untuk Orang Sombong",
+         "author":"Untuk Orang Sombong",
+         "quotes":"Jangan sombong hanya lantaran kaya, juga jangan berkecil hati hanya lantaran terlahir miskin, kita semua hanya tamu di dunia ini, rendah hatilah Sahabat.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":100,
+         "name_category":"Untuk Orang Sombong",
+         "author":"Untuk Orang Sombong",
+         "quotes":"Tidak ada yang salah dengan dunia ini, yang salah yaitu insan sombong yang merasa memilikinya.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":101,
+         "name_category":"Untuk Orang Sombong",
+         "author":"Untuk Orang Sombong",
+         "quotes":"Pengalaman yang dirasakan setiap orang itu berbeda-beda, jangan menjadi sombong oleh karenanyaNamun tetaplah terus membuatkan pengalaman.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":102,
+         "name_category":"Untuk Orang Sombong",
+         "author":"Untuk Orang Sombong",
+         "quotes":"Jika kita merasa sombong dan bisa mengalahkan siapa saja, coba kalahkan kesombongan di dalam diri kita.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":103,
+         "name_category":"Untuk Orang Sombong",
+         "author":"Untuk Orang Sombong",
+         "quotes":"Jangan mengkritik apa yang tidak Anda mengerti, bahkan ketika kita mengerti, cobalah untuk tidak bersikap sombong.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":104,
+         "name_category":"Untuk Orang Sombong",
+         "author":"Untuk Orang Sombong",
+         "quotes":"Sesungguhnya tak ada satu pun alasan untuk kita menjadi sombong, setiap orang mempunyai kelebihan yang tidak kita miliki.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":105,
+         "name_category":"Untuk Orang Sombong",
+         "author":"Untuk Orang Sombong",
+         "quotes":"Yang sombong dimakan jaman, yang songong dimakan teman.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":106,
+         "name_category":"Untuk Orang Sombong",
+         "author":"Untuk Orang Sombong",
+         "quotes":"Selama roda kehidupan terus berputar, maka tak ada alasan untuk bersikap sombong atau putus asa.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":107,
+         "name_category":"Untuk Orang Sombong",
+         "author":"Untuk Orang Sombong",
+         "quotes":"Pada hasilnya tindakan sombong akan mengadirkan rasa aib dalam diri manusia.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":108,
+         "name_category":"Untuk Orang Sombong",
+         "author":"Untuk Orang Sombong",
+         "quotes":"Orang kecil akan menyalahkan orang lain, orang sombong akan membenarkan yang salah, dan si bijak akan instropeksi diri.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":109,
+         "name_category":"Untuk Orang Sombong",
+         "author":"Untuk Orang Sombong",
+         "quotes":"Sumber dari dosa berasal dari sifat sombong, benci, iri dan dengkiHal ini sudah merasuk pada hati tanpa kita sadariSumber segala masalah.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":110,
+         "name_category":"Untuk Orang Sombong",
+         "author":"Untuk Orang Sombong",
+         "quotes":"Hidup terus berubahJangan sombong ketika kau di atasJangan rendah diri ketika kau di bawahWilzKanadi.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":111,
+         "name_category":"Untuk Orang Sombong",
+         "author":"Untuk Orang Sombong",
+         "quotes":"Jangan menghakimi hanya lantaran kita melaksanakan dosa yang berbedaJangan menjadi sombong hanya lantaran kita melaksanakan hal baik yang berbeda.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":1,
+         "name_category":"Untuk Rival",
+         "author":"Untuk Rival",
+         "quotes":"Dengan berbicara di belakangku, berarti kau cukup menghargai keberadaanku untuk tidak bertingkah di depan mukaku. – Madea",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":2,
+         "name_category":"Untuk Rival",
+         "author":"Untuk Rival",
+         "quotes":"Kau mengingatkanku pada uang recehan. Bermuka dua dan tidak berharga.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":3,
+         "name_category":"Untuk Rival",
+         "author":"Untuk Rival",
+         "quotes":"Apa yang bisa disombongkan lagi saat semuanya diambil yang punya.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":4,
+         "name_category":"Untuk Rival",
+         "author":"Untuk Rival",
+         "quotes":"Zaman sekarang janji itu buat kalimat penenang. Rencana itu hanya ekspektasi, Selebihnya angan-angan.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":5,
+         "name_category":"Untuk Rival",
+         "author":"Untuk Rival",
+         "quotes":"Perbedaan teman dan musuh sangat tipis. Ada saatnya dia mendukung berbagai hal yang kamu lakukan, tapi bisa saja dia menusuk dari belakang, bahkan menghancurkanmu.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":6,
+         "name_category":"Untuk Rival",
+         "author":"Untuk Rival",
+         "quotes":"Selalu minta maaf, apakah akan ada banyak kesalahan yang menghadang nantinya.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":7,
+         "name_category":"Untuk Rival",
+         "author":"Untuk Rival",
+         "quotes":"Seseorang yang terlalu banyak tersenyum bersamamu terkadang akan sering merengut saat berada di belakangmu. - Michael Bassey Johnso",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":8,
+         "name_category":"Untuk Rival",
+         "author":"Untuk Rival",
+         "quotes":"Memandanglah ke bawah, masih banyak yang potensial mengunggulimu.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":9,
+         "name_category":"Untuk Rival",
+         "author":"Untuk Rival",
+         "quotes":"Berkatalah hal yang positif tentang orang lain, karena kata-kata positif selalu kembali pada sumbernya.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":10,
+         "name_category":"Untuk Rival",
+         "author":"Untuk Rival",
+         "quotes":"Hati ini masih sakit, tapi kayaknya nggak ada yang ngerasa deh.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":11,
+         "name_category":"Untuk Rival",
+         "author":"Untuk Rival",
+         "quotes":"Jangan mencari seseorang yang bisa menyelesaikan semua masalahmu. Carilah seseorang yang dapat bertahan bersamamu dalam menghadapi semua masalah.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":12,
+         "name_category":"Untuk Rival",
+         "author":"Untuk Rival",
+         "quotes":"Mudah bagi seseorang untuk mengatakan cinta, namun sulit untuk menjadi seseorang yang setia.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":13,
+         "name_category":"Untuk Rival",
+         "author":"Untuk Rival",
+         "quotes":"Kebodohan terbesar dalam hidup adalah mengulangi kesalahan yang sama persis saat bersamanya. Itu tak akan pernah terjadi.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":14,
+         "name_category":"Untuk Rival",
+         "author":"Untuk Rival",
+         "quotes":"Jagalah apa yang kamu miliki, tapi tidak dimiliki orang lain sebelum kamu merasa kehilangan.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":15,
+         "name_category":"Untuk Rival",
+         "author":"Untuk Rival",
+         "quotes":"Bila tekanan justru membuatmu tergila-gila, maka waktu akan membawamu jauh di depan orang rata-rata.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":16,
+         "name_category":"Untuk Rival",
+         "author":"Untuk Rival",
+         "quotes":"Bantulah yang mereka sangat perlu dibantu. Selamatkan yang sudah kamu bantu. Bedakan dengan yang butuh bantuanmu.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":17,
+         "name_category":"Untuk Rival",
+         "author":"Untuk Rival",
+         "quotes":"Dengarkan baik-baik bagaimana seseorang membicarakan orang lain di hadapanmu. Seperti itu jugalah caranya berbicara tentangmu di hadapan orang lain. – Chernoff",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":18,
+         "name_category":"Untuk Rival",
+         "author":"Untuk Rival",
+         "quotes":"Orang baik ialah orang yang malu jika perkataannya melebihi perbuatannya.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":19,
+         "name_category":"Untuk Rival",
+         "author":"Untuk Rival",
+         "quotes":"Kala sudah berbicara tentang perasaan, sahabat pun berisiko kena korban tikung menikung.",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      },
+      {
+         "id":20,
+         "name_category":"Untuk Rival",
+         "author":"Untuk Rival",
+         "quotes":"Lebih mudah membohongi seseorang daripada meyakinkannya kalau ia sudah dibohongi. - Mark Twain",
+         "image_author":"https://khairuldev.files.wordpress.com/2021/10/iconsindiran.png"
+      }
+   ]
+}
